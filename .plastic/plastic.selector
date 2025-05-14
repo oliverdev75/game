@@ -1,0 +1,3 @@
+repository "DAW2_ProyectoUnity@CodeTrigger@cloud"
+  path "/"
+    smartbranch "/main/Oliver"

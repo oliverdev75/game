@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="PlatformerPack.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.23716796"
+     inkscape:cx="3141.2338"
+     inkscape:cy="-385.80253"
+     inkscape:window-width="1920"
+     inkscape:window-height="1121"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect23504"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect23502"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect23500"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect22287"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect20840"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect19861"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect18492"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect16109"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect15208"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect15206"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect11417"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect9151"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect7431"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect6374"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect5239"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect3831"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect2174"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1841"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 50.00003,200.0002 a 50,50.00005 0 0 1 50.00006,50.00005 V 200.0002 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="rect846"
+       style="fill:#bfbfbf;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 300.00031,9.3037845e-5 h 100 V 100.00009 h -100 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="rect1388"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 600.0005,2e-6 V 100.0001 h 100.00009 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="rect1506"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 500.00039,50.000049 V 100.0001 H 600.0005 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path1708"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 400.0003,2e-6 V 100.0001 H 500.00039 V 50.000049 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path1711"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 100.00009,0 V 100.0001 H 4e-6 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path1713"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 200.0002,50.000047 V 100.0001 H 100.00009 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path1715"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 300.0003,0 V 100.0001 H 200.0002 V 50.000047 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path1717"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 600.0005,200.0002 V 100.0001 h 100.00009 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path1719"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 500.00039,150.00015 V 100.0001 H 600.0005 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path1721"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 400.0003,200.0002 V 100.0001 h 100.00009 v 50.00005 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path1723"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 200.00019,200.0002 V 100.0001 H 100.0001 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path1725"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 300.0003,150.00015 V 100.0001 H 200.00019 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path1727"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 400.0004,200.0002 V 100.0001 H 300.0003 v 50.00005 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path2018"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 150.00015,200.0002 a 50,50.00005 0 0 0 -50.00006,50.00005 V 200.0002 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path2020"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 250.00027,300.00045 a 50,50.00005 0 0 0 50.00006,-50.00005 v 50.00005 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path2022"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 350.00039,300.00045 A 50,50.00005 0 0 1 300.00033,250.0004 v 50.00005 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="rect2024"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 400.00013,200.00036 v 50.00005 a 50,50.00005 0 0 0 49.98609,49.99953 h 50.014 v -99.99958 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path2030"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 100.00009,100.0001 v 50.00004 A 50,50.00005 0 0 1 50.014,199.99967 H 0 V 100.0001 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path2032"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 500.00023,299.99994 V 249.9999 a 50,50.00005 0 0 1 49.98609,-49.99953 h 50.014 v 99.99957 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path2034"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 700.00041,299.99994 V 249.9999 a 50,50.00005 0 0 0 -49.98609,-49.99953 h -50.014 v 99.99957 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path2112"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 50.00003,200.0002 a 50,50.00005 0 0 1 50.00006,50.00005 V 200.0002 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="rect2114"
+       style="fill:#cccccc;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
+       d="m 308,8 c 0,28 0,56 0,84 28,0 56,0 84,0 0,-28 0,-56 0,-84 -28,0 -56,0 -84,0 z"
+       inkscape:path-effect="#path-effect11417"
+       inkscape:original-d="m 300.00031,9.3037845e-5 h 100 V 100.00009 h -100 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path2116"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 608,19.3125 c 0,24.229167 0,48.458333 0,72.6875 24.22917,0 48.45833,0 72.6875,0 C 656.45833,67.770833 632.22917,43.541667 608,19.3125 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect23504"
+       inkscape:original-d="M 600.0005,2e-6 V 100.0001 h 100.00009 z" />
+    <path
+       id="path2118"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 508,62.945312 c 0,9.684896 0,19.369792 0,29.054688 19.36979,0 38.73959,0 58.10938,0 C 546.73959,82.315104 527.36979,72.630208 508,62.945312 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect18492"
+       inkscape:original-d="M 500.00039,50.000049 V 100.0001 H 600.0005 Z" />
+    <path
+       id="path2120"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 408,12.945312 c 0,26.351563 0,52.703125 0,79.054688 28,0 56,0 84,0 0,-12.351563 0,-24.703125 0,-37.054688 -28,-14 -56,-28 -84,-42 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect16109"
+       inkscape:original-d="M 400.0003,2e-6 V 100.0001 H 500.00039 V 50.000049 Z" />
+    <path
+       id="path2122"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 92,19.3125 C 67.770833,43.541667 43.541667,67.770833 19.3125,92 43.541667,92 67.770833,92 92,92 92,67.770833 92,43.541667 92,19.3125 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect2174"
+       inkscape:original-d="M 100.00009,0 V 100.0001 H 4e-6 Z" />
+    <path
+       id="path2124"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 192,62.945312 C 172.63021,72.630208 153.26041,82.315104 133.89062,92 c 19.36979,0 38.73959,0 58.10938,0 0,-9.684896 0,-19.369792 0,-29.054688 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect6374"
+       inkscape:original-d="M 200.0002,50.000047 V 100.0001 H 100.00009 Z" />
+    <path
+       id="path2126"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 292,12.945312 c -28,14 -56,28 -84,42 0,12.351563 0,24.703125 0,37.054688 28,0 56,0 84,0 0,-26.351563 0,-52.703125 0,-79.054688 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect7431"
+       inkscape:original-d="M 300.0003,0 V 100.0001 H 200.0002 V 50.000047 Z" />
+    <path
+       id="path2128"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 608,108 c 0,24.22917 0,48.45833 0,72.6875 24.22917,-24.22917 48.45833,-48.45833 72.6875,-72.6875 -24.22917,0 -48.45833,0 -72.6875,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect23502"
+       inkscape:original-d="M 600.0005,200.0002 V 100.0001 h 100.00009 z" />
+    <path
+       id="path2130"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 508,108 c 0,9.6849 0,19.36979 0,29.05469 19.36979,-9.6849 38.73959,-19.36979 58.10938,-29.05469 -19.36979,0 -38.73959,0 -58.10938,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect19861"
+       inkscape:original-d="M 500.00039,150.00015 V 100.0001 H 600.0005 Z" />
+    <path
+       id="path2132"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 408,108 c 0,26.35156 0,52.70313 0,79.05469 28,-14 56,-28 84,-42 0,-12.35156 0,-24.70313 0,-37.05469 -28,0 -56,0 -84,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect15208"
+       inkscape:original-d="M 400.0003,200.0002 V 100.0001 h 100.00009 v 50.00005 z" />
+    <path
+       id="path2134"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 119.3125,108 c 24.22917,24.22917 48.45833,48.45833 72.6875,72.6875 0,-24.22917 0,-48.45833 0,-72.6875 -24.22917,0 -48.45833,0 -72.6875,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect5239"
+       inkscape:original-d="M 200.00019,200.0002 V 100.0001 H 100.0001 Z" />
+    <path
+       id="path2136"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 233.89062,108 c 19.36979,9.6849 38.73959,19.36979 58.10938,29.05469 0,-9.6849 0,-19.36979 0,-29.05469 -19.36979,0 -38.73959,0 -58.10938,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect9151"
+       inkscape:original-d="M 300.0003,150.00015 V 100.0001 H 200.00019 Z" />
+    <path
+       id="path2138"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 308,108 c 0,12.35156 0,24.70313 0,37.05469 28,14 56,28 84,42 0,-26.35156 0,-52.70313 0,-79.05469 -28,0 -56,0 -84,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect15206"
+       inkscape:original-d="M 400.0004,200.0002 V 100.0001 H 300.0003 v 50.00005 z" />
+    <path
+       id="path2140"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 150.00015,200.0002 a 50,50.00005 0 0 0 -50.00006,50.00005 V 200.0002 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path2142"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 250.00027,300.00045 a 50,50.00005 0 0 0 50.00006,-50.00005 v 50.00005 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path2144"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 350.00039,300.00045 A 50,50.00005 0 0 1 300.00033,250.0004 v 50.00005 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709" />
+    <path
+       id="path2146"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 408,208 c 3e-4,14.06496 -6e-4,28.12993 4.5e-4,42.19489 0.0199,6.68445 1.67295,13.35727 4.79042,19.27121 3.68119,7.02666 9.39316,12.96845 16.2659,16.92882 5.39742,3.12329 11.50236,5.01588 17.72174,5.48341 1.34026,0.10837 2.68525,0.12827 4.02922,0.12167 13.73076,0 27.46151,0 41.19227,0 0,-28 0,-56 0,-84 -28,0 -56,0 -84,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect20840"
+       inkscape:original-d="m 400.00013,200.00036 v 50.00005 a 50,50.00005 0 0 0 49.98609,49.99953 h 50.014 v -99.99958 z" />
+    <path
+       id="path2148"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 8,108 c 0,28 0,56 0,84 14.004557,0 28.009115,0 42.013672,0 6.950481,0.0104 13.894998,-1.74858 19.99544,-5.08112 7.183645,-3.8982 13.183456,-9.93568 17.03591,-17.14402 C 90.31833,163.69118 92.031634,156.78382 92,149.87652 92,135.91768 92,121.95884 92,108 c -28,0 -56,0 -84,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect3831"
+       inkscape:original-d="m 100.00009,100.0001 v 50.00004 A 50,50.00005 0 0 1 50.014,199.99967 H 0 V 100.0001 Z" />
+    <path
+       id="path2150"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 549.98633,208 c -6.90277,-0.0102 -13.79989,1.72406 -19.86985,5.01282 -7.18753,3.86856 -13.2013,9.87514 -17.07873,17.05786 -3.20964,5.90653 -4.94696,12.59911 -5.0334,19.31974 -0.009,1.63625 -0.002,3.27259 -0.004,4.90888 0,12.5669 0,25.1338 0,37.7007 28,0 56,0 84,0 0,-28 0,-56 0,-84 -14.00456,0 -28.00911,0 -42.01367,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect22287"
+       inkscape:original-d="M 500.00023,299.99994 V 249.9999 a 50,50.00005 0 0 1 49.98609,-49.99953 h 50.014 v 99.99957 z" />
+    <path
+       id="path2152"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 608,208 c 0,28 0,56 0,84 28,0 56,0 84,0 -3e-4,-14.06497 6e-4,-28.12993 -4.5e-4,-42.1949 -0.0199,-6.68461 -1.67312,-13.3576 -4.79091,-19.27157 -3.68157,-7.02673 -9.39407,-12.96835 -16.26718,-16.92851 -5.09464,-2.94899 -10.81921,-4.80235 -16.67686,-5.39063 -1.61011,-0.16743 -3.22959,-0.22614 -4.84782,-0.21439 -13.80559,0 -27.61119,0 -41.41678,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="173.39709"
+       inkscape:export-ydpi="173.39709"
+       inkscape:path-effect="#path-effect23500"
+       inkscape:original-d="M 700.00041,299.99994 V 249.9999 a 50,50.00005 0 0 0 -49.98609,-49.99953 h -50.014 v 99.99957 z" />
+  </g>
+</svg>
