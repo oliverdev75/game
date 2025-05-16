@@ -1,0 +1,2568 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="PlatformerPack.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="D:\Usuaris\EthanGrane\Documents\PlatformerPack.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.22627418"
+     inkscape:cx="1924.6562"
+     inkscape:cy="342.50483"
+     inkscape:window-width="1920"
+     inkscape:window-height="1121"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1303"
+       spacingx="50.00625"
+       spacingy="50.00625"
+       originx="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect2358"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="px"
+       offset="-16"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect2352"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="px"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect2346"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="px"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect2340"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="px"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect1668"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="px"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect1225"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="px"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect10326"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="px"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect7730"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="px"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect44396"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,15.875,0,1 @ F,0,0,1,0,15.875,0,1 @ F,0,0,1,0,15.875,0,1 @ F,0,0,1,0,15.875,0,1 @ F,0,0,1,0,15.875,0,1 @ F,0,0,1,0,15.875,0,1 @ F,0,0,1,0,15.875,0,1 @ F,0,0,1,0,15.875,0,1 @ F,0,0,1,0,15.875,0,1 @ F,0,0,1,0,15.875,0,1 @ F,0,0,1,0,15.875,0,1 @ F,0,0,1,0,15.875,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="60"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect44103"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,31.75,0,1 @ F,0,0,1,0,31.75,0,1 @ F,0,0,1,0,31.75,0,1 @ F,0,0,1,0,31.75,0,1 @ F,0,0,1,0,31.75,0,1 @ F,0,0,1,0,31.75,0,1 @ F,0,0,1,0,31.75,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="120"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect33907"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect23504"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect23502"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect23500"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect22287"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect20840"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect19861"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect18492"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect16109"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect15208"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect15206"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect11417"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect9151"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect7431"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect6374"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect5239"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect3831"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect2174"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48427"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48425"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5578" />
+      <feColorMatrix
+         id="feColorMatrix5580"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48431"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48429"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5582" />
+      <feColorMatrix
+         id="feColorMatrix5584"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48435"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48433"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5586" />
+      <feColorMatrix
+         id="feColorMatrix5588"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48439"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48437"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5590" />
+      <feColorMatrix
+         id="feColorMatrix5592"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48443"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48441"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5594" />
+      <feColorMatrix
+         id="feColorMatrix5596"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48447"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48445"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5598" />
+      <feColorMatrix
+         id="feColorMatrix5600"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48451"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48449"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5602" />
+      <feColorMatrix
+         id="feColorMatrix5604"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48455"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48453"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5606" />
+      <feColorMatrix
+         id="feColorMatrix5608"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48459"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48457"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5610" />
+      <feColorMatrix
+         id="feColorMatrix5612"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48463"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48461"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5614" />
+      <feColorMatrix
+         id="feColorMatrix5616"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48467"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48465"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5618" />
+      <feColorMatrix
+         id="feColorMatrix5620"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48471"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48469"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5622" />
+      <feColorMatrix
+         id="feColorMatrix5624"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48475"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48473"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5626" />
+      <feColorMatrix
+         id="feColorMatrix5628"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48479"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48477"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5630" />
+      <feColorMatrix
+         id="feColorMatrix5632"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Brilliance"
+       id="filter48483"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48481" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Brilliance"
+       id="filter48487"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48485" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Brilliance"
+       id="filter48491"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48489" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48495"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48493"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5634" />
+      <feColorMatrix
+         id="feColorMatrix5636"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5638" />
+      <feColorMatrix
+         id="feColorMatrix5640"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5642" />
+      <feColorMatrix
+         id="feColorMatrix5644"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5646" />
+      <feColorMatrix
+         id="feColorMatrix5648"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5650" />
+      <feColorMatrix
+         id="feColorMatrix5652"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5654" />
+      <feColorMatrix
+         id="feColorMatrix5656"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5658" />
+      <feColorMatrix
+         id="feColorMatrix5660"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5662" />
+      <feColorMatrix
+         id="feColorMatrix5664"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48499"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48497"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5666" />
+      <feColorMatrix
+         id="feColorMatrix5668"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48503"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48501"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5670" />
+      <feColorMatrix
+         id="feColorMatrix5672"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5790" />
+      <feColorMatrix
+         id="feColorMatrix5792"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48507"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48505"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5674" />
+      <feColorMatrix
+         id="feColorMatrix5676"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5798" />
+      <feColorMatrix
+         id="feColorMatrix5800"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48511"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48509"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5678" />
+      <feColorMatrix
+         id="feColorMatrix5680"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48515"
+       x="-0.025198411"
+       y="-0.025198411"
+       width="1.0503968"
+       height="1.0503968">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48513"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5730" />
+      <feColorMatrix
+         id="feColorMatrix5732"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48519"
+       x="-0.02912009"
+       y="0"
+       width="1.0291201"
+       height="1.0291201">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48517"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5734" />
+      <feColorMatrix
+         id="feColorMatrix5736"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48523"
+       x="-0.036425564"
+       y="-1.9564285e-15"
+       width="1.0527156"
+       height="1.0728511">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48521"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5738" />
+      <feColorMatrix
+         id="feColorMatrix5740"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48527"
+       x="-0.025198411"
+       y="-0.023948031"
+       width="1.0503968"
+       height="1.0507227">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48525"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5742" />
+      <feColorMatrix
+         id="feColorMatrix5744"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48531"
+       x="-0.070302117"
+       y="-0.020591013"
+       width="1.0994222"
+       height="1.0497111">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48529"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5746" />
+      <feColorMatrix
+         id="feColorMatrix5748"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48535"
+       x="0"
+       y="-0.065160021"
+       width="1.0364256"
+       height="1.1380111">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48533"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5750" />
+      <feColorMatrix
+         id="feColorMatrix5752"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48539"
+       x="-0.025198411"
+       y="-0.023948031"
+       width="1.0503968"
+       height="1.0507227">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48537"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5754" />
+      <feColorMatrix
+         id="feColorMatrix5756"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48543"
+       x="-0.02912009"
+       y="-0.02912009"
+       width="1.0994222"
+       height="1.0994222">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48541"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5758" />
+      <feColorMatrix
+         id="feColorMatrix5760"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48547"
+       x="-0.036425564"
+       y="-0.072851115"
+       width="1.0390225"
+       height="1.0728511">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48545"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5762" />
+      <feColorMatrix
+         id="feColorMatrix5764"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48551"
+       x="-0.025198411"
+       y="-0.026774712"
+       width="1.0503968"
+       height="1.0267747">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48549"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5766" />
+      <feColorMatrix
+         id="feColorMatrix5768"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48555"
+       x="-0.020591013"
+       y="-0.02912009"
+       width="1.0497111"
+       height="1.0994222">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48553"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5770" />
+      <feColorMatrix
+         id="feColorMatrix5772"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48559"
+       x="-0.016289021"
+       y="-0.072851115"
+       width="1.0527134"
+       height="1.0728511">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48557"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5774" />
+      <feColorMatrix
+         id="feColorMatrix5776"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48563"
+       x="-0.025198411"
+       y="-0.026774712"
+       width="1.0503968"
+       height="1.0282669">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48561"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5778" />
+      <feColorMatrix
+         id="feColorMatrix5780"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48567"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48565"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5566" />
+      <feColorMatrix
+         id="feColorMatrix5568"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48571"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48569"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5570" />
+      <feColorMatrix
+         id="feColorMatrix5572"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48575"
+       x="-0.063533987"
+       y="-0.063534025"
+       width="1.127068"
+       height="1.1270216">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48573"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5574" />
+      <feColorMatrix
+         id="feColorMatrix5576"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5682" />
+      <feColorMatrix
+         id="feColorMatrix5684"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5686" />
+      <feColorMatrix
+         id="feColorMatrix5688"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5690" />
+      <feColorMatrix
+         id="feColorMatrix5692"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5694" />
+      <feColorMatrix
+         id="feColorMatrix5696"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5698" />
+      <feColorMatrix
+         id="feColorMatrix5700"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5702" />
+      <feColorMatrix
+         id="feColorMatrix5704"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5706" />
+      <feColorMatrix
+         id="feColorMatrix5708"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5710" />
+      <feColorMatrix
+         id="feColorMatrix5712"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5714" />
+      <feColorMatrix
+         id="feColorMatrix5716"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5718" />
+      <feColorMatrix
+         id="feColorMatrix5720"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5722" />
+      <feColorMatrix
+         id="feColorMatrix5724"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5726" />
+      <feColorMatrix
+         id="feColorMatrix5728"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5806" />
+      <feColorMatrix
+         id="feColorMatrix5808"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5810" />
+      <feColorMatrix
+         id="feColorMatrix5812"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5814" />
+      <feColorMatrix
+         id="feColorMatrix5816"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5818" />
+      <feColorMatrix
+         id="feColorMatrix5820"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48579"
+       x="-0.025197488"
+       y="-0.025198071"
+       width="1.0503959"
+       height="1.0503992">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48577"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5782" />
+      <feColorMatrix
+         id="feColorMatrix5784"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48583"
+       x="-0.025198282"
+       y="-0.025198398"
+       width="1.0503966"
+       height="1.0503968">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48581"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5786" />
+      <feColorMatrix
+         id="feColorMatrix5788"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48587"
+       x="-0.025198303"
+       y="-0.025198355"
+       width="1.0503965"
+       height="1.0503968">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48585"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5794" />
+      <feColorMatrix
+         id="feColorMatrix5796"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Blindness"
+       id="filter48591"
+       x="-0.025198389"
+       y="-0.025193049"
+       width="1.0503957"
+       height="1.050391">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48589"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5802" />
+      <feColorMatrix
+         id="feColorMatrix5804"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Brilliance"
+       id="filter48595"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48593" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Brilliance"
+       id="filter48599"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48597" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Brilliance"
+       id="filter48603"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48601" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Brilliance"
+       id="filter48599-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48597-5" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Brilliance"
+       id="filter48603-1"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2.24 -0.5 -0.5 0 0 -0.5 2.24 -0.5 0 0 -0.5 -0.5 2.24 0 0 0 0 0 1 0 "
+         id="feColorMatrix48601-7" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2140"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48567)"
+       d="m 200.01881,300.04991 a 50,50.00005 0 0 0 -50.00006,50.00005 v -50.00005 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path2142"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48571)"
+       d="m 350.01277,400.02536 a 50,50.00005 0 0 0 50.00006,-50.00005 v 50.00005 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path2144"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48575)"
+       d="m 500.05633,400.02527 a 50,50.00005 0 0 1 -50.00006,-50.00005 v 50.00005 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="rect1841"
+       style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48427)"
+       d="m 50.00003,300.02511 a 50,50.00005 0 0 1 50.00006,50.00005 v -50.00005 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="rect846"
+       style="fill:#66747e;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48431);fill-opacity:1"
+       d="m 450.05625,0 h 100 v 99.999997 h -100 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="rect1388"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48435)"
+       d="m 900.1125,0 v 100.0001 h 100.0001 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="rect1506"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48439)"
+       d="M 750.10614,50.000047 V 100.0001 h 100.00011 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path1708"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48443)"
+       d="M 600.075,0 V 100.0001 H 700.07509 V 50.000047 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path1711"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48447)"
+       d="M 100.00009,0 V 100.0001 H 4e-6 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path1713"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48451)"
+       d="M 250.01886,50.024847 V 100.0249 H 150.01875 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path1715"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48455)"
+       d="M 400.0128,0 V 100.0001 H 300.0127 V 50.000047 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path1717"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48459)"
+       d="m 900.1125,250.01938 v -100.0001 h 100.0001 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path1719"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48463)"
+       d="M 750.10614,200.01933 V 150.01928 H 850.10625 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path1721"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48467)"
+       d="m 600.075,250.01938 v -100.0001 h 100.00009 v 50.00005 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path1723"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48471)"
+       d="M 250.01885,250.04418 V 150.04408 H 150.01876 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path1725"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48475)"
+       d="M 400.0128,200.01933 V 150.01928 H 300.01269 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path1727"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48479)"
+       d="m 550.05634,250.01929 v -100.0001 h -100.0001 v 50.00005 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="rect2024"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48495)"
+       d="m 600.07483,300.02527 v 50.00005 a 50,50.00005 0 0 0 49.98609,49.99953 h 50.014 v -99.99958 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48495)"
+       inkscape:path-effect="#path-effect1225"
+       inkscape:original-d="m 900.1125,0 v 100.0001 h 100.0001 z"
+       d="m 902.23047,5.109375 c 0,30.924479 0,61.848958 0,92.773437 30.92448,0 61.84896,0 92.77344,0 C 964.07943,66.958333 933.15495,36.033854 902.23047,5.109375 Z"
+       id="path1440"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48495)"
+       inkscape:path-effect="#path-effect1225"
+       inkscape:original-d="M 750.10614,50.000047 V 100.0001 h 100.00011 z"
+       d="m 752.22266,53.425781 c 0,14.81901 0,29.638021 0,44.457031 29.63867,0 59.27734,0 88.91601,0 C 811.5,83.063802 781.86133,68.244791 752.22266,53.425781 Z"
+       id="path1438"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48495)"
+       inkscape:path-effect="#path-effect1225"
+       inkscape:original-d="M 600.075,0 V 100.0001 H 700.07509 V 50.000047 Z"
+       d="m 602.19141,3.4257812 c 0,31.4856768 0,62.9713538 0,94.4570308 31.92187,0 63.84375,0 95.76562,0 0,-15.524739 0,-31.049479 0,-46.574218 C 666.03516,35.347656 634.11328,19.386719 602.19141,3.4257812 Z"
+       id="path1436"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48495)"
+       inkscape:path-effect="#path-effect1225"
+       inkscape:original-d="m 900.1125,250.01938 v -100.0001 h 100.0001 z"
+       d="m 902.23047,152.13672 c 0,30.92448 0,61.84896 0,92.77344 30.92448,-30.92448 61.84896,-61.84896 92.77344,-92.77344 -30.92448,0 -61.84896,0 -92.77344,0 z"
+       id="path1434"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48495)"
+       inkscape:path-effect="#path-effect1225"
+       inkscape:original-d="M 750.10614,200.01933 V 150.01928 H 850.10625 Z"
+       d="m 752.22266,152.13672 c 0,14.81901 0,29.63802 0,44.45703 29.63867,-14.81901 59.27734,-29.63802 88.91601,-44.45703 -29.63867,0 -59.27734,0 -88.91601,0 z"
+       id="path1432"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48495)"
+       inkscape:path-effect="#path-effect1225"
+       inkscape:original-d="m 600.075,250.01938 v -100.0001 h 100.00009 v 50.00005 z"
+       d="m 602.19141,152.13672 c 0,31.48568 0,62.97135 0,94.45703 31.92187,-15.96094 63.84375,-31.92187 95.76562,-47.88281 0,-15.52474 0,-31.04948 0,-46.57422 -31.92187,0 -63.84375,0 -95.76562,0 z"
+       id="path1430"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48495)"
+       inkscape:path-effect="#path-effect1225"
+       inkscape:original-d="m 600.07483,300.02527 v 50.00005 a 50,50.00005 0 0 0 49.98609,49.99953 h 50.014 v -99.99958 z"
+       d="m 602.19141,302.14258 c 3.7e-4,16.03832 -7.4e-4,32.07665 5.6e-4,48.11497 0.0233,5.70477 1.06894,11.40566 3.09735,16.73884 2.12106,5.59868 5.31358,10.78615 9.34154,15.21455 3.64893,4.02013 7.9854,7.42206 12.76891,9.99235 0.99711,0.50691 1.98833,1.02664 3.00843,1.48669 1.8123,0.82301 3.67872,1.52856 5.58223,2.1097 1.10645,0.31681 2.21249,0.6376 3.33482,0.89462 3.66592,0.84921 7.43373,1.24301 11.19554,1.2139 15.81208,0 31.62416,0 47.43624,0 0,-31.92187 0,-63.84375 0,-95.76562 -31.92187,0 -63.84375,0 -95.76562,0 z"
+       id="path7528"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path2030"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48499)"
+       d="m 100.00009,150.03168 v 50.00004 A 50,50.00005 0 0 1 50.014,250.03125 H 0 v -99.99957 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path2032"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48503)"
+       d="m 750.10598,400.02485 v -50.00004 a 50,50.00005 0 0 1 49.98609,-49.99953 h 50.014 v 99.99957 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path2034"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48507)"
+       d="m 1000.1124,400.02485 v -50.00004 a 50,50.00005 0 0 0 -49.98608,-49.99953 h -50.014 v 99.99957 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path2112"
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48511)"
+       d="m 50.00003,300.02511 a 50,50.00005 0 0 1 50.00006,50.00005 v -50.00005 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48575)"
+       inkscape:path-effect="#path-effect1668"
+       inkscape:original-d="m 450.05625,0 h 100 v 99.999997 h -100 z"
+       d="m 452.17383,2.1171875 c 0,31.9218745 0,63.8437495 0,95.7656245 31.92187,0 63.84375,0 95.76562,0 0,-31.921875 0,-63.84375 0,-95.7656245 -31.92187,0 -63.84375,0 -95.76562,0 z"
+       id="path2129"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48575)"
+       inkscape:path-effect="#path-effect1668"
+       inkscape:original-d="M 100.00009,0 V 100.0001 H 4e-6 Z"
+       d="M 97.882812,5.109375 C 66.958333,36.033854 36.033854,66.958333 5.109375,97.882812 c 30.924479,0 61.848958,0 92.773437,0 0,-30.924479 0,-61.848958 0,-92.773437 z"
+       id="path2127"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48575)"
+       inkscape:path-effect="#path-effect1668"
+       inkscape:original-d="M 250.01886,50.024847 V 100.0249 H 150.01875 Z"
+       d="M 247.90234,53.449219 C 218.26367,68.26888 188.625,83.088542 158.98633,97.908203 c 29.63867,0 59.27734,0 88.91601,0 0,-14.819661 0,-29.639323 0,-44.458984 z"
+       id="path2125"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48575)"
+       inkscape:path-effect="#path-effect1668"
+       inkscape:original-d="M 400.0128,0 V 100.0001 H 300.0127 V 50.000047 Z"
+       d="M 397.89648,3.4257812 C 365.97461,19.386719 334.05273,35.347656 302.13086,51.308594 c 0,15.524739 0,31.049479 0,46.574218 31.92187,0 63.84375,0 95.76562,0 0,-31.485677 0,-62.971354 0,-94.4570308 z"
+       id="path2123"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48575)"
+       inkscape:path-effect="#path-effect1668"
+       inkscape:original-d="M 250.01885,250.04418 V 150.04408 H 150.01876 Z"
+       d="m 155.12891,152.16211 c 30.92448,30.92448 61.84895,61.84896 92.77343,92.77344 0,-30.92448 0,-61.84896 0,-92.77344 -30.92448,0 -61.84895,0 -92.77343,0 z"
+       id="path2121"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48575)"
+       inkscape:path-effect="#path-effect1668"
+       inkscape:original-d="M 400.0128,200.01933 V 150.01928 H 300.01269 Z"
+       d="m 308.97852,152.13672 c 29.63932,14.81966 59.27864,29.63932 88.91796,44.45898 0,-14.81966 0,-29.63932 0,-44.45898 -29.63932,0 -59.27864,0 -88.91796,0 z"
+       id="path2119"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#66747e;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48575)"
+       inkscape:path-effect="#path-effect1668"
+       inkscape:original-d="m 550.05634,250.01929 v -100.0001 h -100.0001 v 50.00005 z"
+       d="m 452.17383,152.13672 c 0,15.52474 0,31.04948 0,46.57422 31.92187,15.96094 63.84375,31.92187 95.76562,47.88281 0,-31.48568 0,-62.97135 0,-94.45703 -31.92187,0 -63.84375,0 -95.76562,0 z"
+       id="path2117"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48575)"
+       inkscape:path-effect="#path-effect1668"
+       inkscape:original-d="m 100.00009,150.03168 v 50.00004 A 50,50.00005 0 0 1 50.014,250.03125 H 0 v -99.99957 z"
+       d="m 2.1171875,152.14844 c 0,31.92187 0,63.84375 0,95.76562 16.0428785,-4.1e-4 32.0857595,8.2e-4 48.1286355,-6.1e-4 5.972467,-0.0244 11.940184,-1.17321 17.486211,-3.39247 6.692218,-2.66728 12.759341,-6.87711 17.615739,-12.19697 4.652043,-5.08229 8.193555,-11.17795 10.282497,-17.74475 1.533427,-4.79704 2.285666,-9.83863 2.252542,-14.87354 0,-15.85243 0,-31.70485 0,-47.55728 -31.921875,0 -63.84375,0 -95.7656245,0 z"
+       id="path2115"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48575)"
+       inkscape:path-effect="#path-effect1668"
+       inkscape:original-d="m 50.00003,300.02511 a 50,50.00005 0 0 1 50.00006,50.00005 v -50.00005 z"
+       d="m 70.601562,302.14258 c 6.85194,2.94531 13.049697,7.39119 18.050152,12.92339 3.836276,4.23679 6.972116,9.10724 9.231098,14.35786 0,-9.09375 0,-18.1875 0,-27.28125 -9.09375,0 -18.1875,0 -27.28125,0 z"
+       id="path2113"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48575)"
+       inkscape:path-effect="#path-effect1668"
+       inkscape:original-d="m 200.01881,300.04991 a 50,50.00005 0 0 0 -50.00006,50.00005 v -50.00005 z"
+       d="m 152.13672,302.16797 c 0,9.09375 0,18.1875 0,27.28125 2.94532,-6.85194 7.39119,-13.0497 12.92339,-18.05016 4.23679,-3.83627 9.10724,-6.97211 14.35786,-9.23109 -9.09375,0 -18.1875,0 -27.28125,0 z"
+       id="path2111"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48575)"
+       inkscape:path-effect="#path-effect1668"
+       inkscape:original-d="m 350.01277,400.02536 a 50,50.00005 0 0 0 50.00006,-50.00005 v 50.00005 z"
+       d="m 397.89648,370.62695 c -2.94532,6.85194 -7.39119,13.0497 -12.92339,18.05016 -4.23679,3.83627 -9.10724,6.97211 -14.35786,9.23109 9.09375,0 18.1875,0 27.28125,0 0,-9.09375 0,-18.1875 0,-27.28125 z"
+       id="path2109"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48575)"
+       inkscape:path-effect="#path-effect1668"
+       inkscape:original-d="m 500.05633,400.02527 a 50,50.00005 0 0 1 -50.00006,-50.00005 v 50.00005 z"
+       d="m 452.17383,370.62695 c 0,9.09375 0,18.1875 0,27.28125 9.09375,0 18.1875,0 27.28125,0 -6.85194,-2.94531 -13.0497,-7.39119 -18.05016,-12.92339 -3.83638,-4.23696 -6.972,-9.10705 -9.23109,-14.35786 z"
+       id="path7542"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="rect2114"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48515);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 458.05664,8 c 0,28 0,56 0,84 28,0 56,0 84,0 0,-28 0,-56 0,-84 -28,0 -56,0 -84,0 z"
+       inkscape:path-effect="#path-effect11417"
+       inkscape:original-d="m 450.05625,0 h 100 v 99.999997 h -100 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path2116"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48519);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 908.11328,19.3125 c 0,24.229167 0,48.458333 0,72.6875 24.22917,0 48.45833,0 72.6875,0 -24.22917,-24.229167 -48.45833,-48.458333 -72.6875,-72.6875 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect23504"
+       inkscape:original-d="m 900.1125,0 v 100.0001 h 100.0001 z" />
+    <path
+       id="path2118"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48523);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 758.10547,62.945312 c 0,9.684896 0,19.369792 0,29.054688 19.36979,0 38.73958,0 58.10937,0 -19.36979,-9.684896 -38.73958,-19.369792 -58.10937,-29.054688 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect18492"
+       inkscape:original-d="M 750.10614,50.000047 V 100.0001 h 100.00011 z" />
+    <path
+       id="path2120"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48527);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 608.07422,12.945312 c 0,26.351563 0,52.703125 0,79.054688 28,0 56,0 84,0 0,-12.351563 0,-24.703125 0,-37.054688 -28,-14 -56,-28 -84,-42 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect16109"
+       inkscape:original-d="M 600.075,0 V 100.0001 H 700.07509 V 50.000047 Z" />
+    <path
+       id="path2122"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48531);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="M 92,19.3125 C 67.770833,43.541667 43.541667,67.770833 19.3125,92 43.541667,92 67.770833,92 92,92 92,67.770833 92,43.541667 92,19.3125 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect2174"
+       inkscape:original-d="M 100.00009,0 V 100.0001 H 4e-6 Z" />
+    <path
+       id="path2124"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48535);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 242.01953,62.970703 c -19.36979,9.684896 -38.73958,19.369792 -58.10937,29.054688 19.36979,0 38.73958,0 58.10937,0 0,-9.684896 0,-19.369792 0,-29.054688 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect6374"
+       inkscape:original-d="M 250.01886,50.024847 V 100.0249 H 150.01875 Z" />
+    <path
+       id="path2126"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48539);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 392.01367,12.945312 c -28,14 -56,28 -84,42 0,12.351563 0,24.703125 0,37.054688 28,0 56,0 84,0 0,-26.351563 0,-52.703125 0,-79.054688 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect7431"
+       inkscape:original-d="M 400.0128,0 V 100.0001 H 300.0127 V 50.000047 Z" />
+    <path
+       id="path2128"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48543);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 908.11328,158.01953 c 0,24.22917 0,48.45833 0,72.6875 24.22917,-24.22917 48.45833,-48.45833 72.6875,-72.6875 -24.22917,0 -48.45833,0 -72.6875,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect23502"
+       inkscape:original-d="m 900.1125,250.01938 v -100.0001 h 100.0001 z" />
+    <path
+       id="path2130"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48547);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 758.10547,158.01953 c 0,9.6849 0,19.36979 0,29.05469 19.36979,-9.6849 38.73958,-19.36979 58.10937,-29.05469 -19.36979,0 -38.73958,0 -58.10937,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect19861"
+       inkscape:original-d="M 750.10614,200.01933 V 150.01928 H 850.10625 Z" />
+    <path
+       id="path2132"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48551);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 608.07422,158.01953 c 0,26.35156 0,52.70313 0,79.05469 28,-14 56,-28 84,-42 0,-12.35156 0,-24.70313 0,-37.05469 -28,0 -56,0 -84,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect15208"
+       inkscape:original-d="m 600.075,250.01938 v -100.0001 h 100.00009 v 50.00005 z" />
+    <path
+       id="path2134"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48555);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 169.33203,158.04492 c 24.22917,24.22917 48.45833,48.45833 72.6875,72.6875 0,-24.22917 0,-48.45833 0,-72.6875 -24.22917,0 -48.45833,0 -72.6875,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect5239"
+       inkscape:original-d="M 250.01885,250.04418 V 150.04408 H 150.01876 Z" />
+    <path
+       id="path2136"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48559);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 333.90234,158.01953 c 19.37044,9.6849 38.74089,19.36979 58.11133,29.05469 0,-9.6849 0,-19.36979 0,-29.05469 -19.37044,0 -38.74089,0 -58.11133,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect9151"
+       inkscape:original-d="M 400.0128,200.01933 V 150.01928 H 300.01269 Z" />
+    <path
+       id="path2138"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48563);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 458.05664,158.01953 c 0,12.35156 0,24.70313 0,37.05469 28,14 56,28 84,42 0,-26.35156 0,-52.70313 0,-79.05469 -28,0 -56,0 -84,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect15206"
+       inkscape:original-d="m 550.05634,250.01929 v -100.0001 h -100.0001 v 50.00005 z" />
+    <path
+       id="path2146"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48579);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 608.07422,308.02539 c 3e-4,14.06496 -6e-4,28.12993 4.5e-4,42.19489 0.0199,6.68445 1.67294,13.35727 4.79042,19.27122 3.68118,7.02665 9.39315,12.96844 16.2659,16.92881 5.39742,3.12329 11.50236,5.01588 17.72174,5.48341 1.34026,0.10837 2.68525,0.12827 4.02922,0.12167 13.73076,0 27.46151,0 41.19227,0 0,-28 0,-56 0,-84 -28,0 -56,0 -84,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect20840"
+       inkscape:original-d="m 600.07483,300.02527 v 50.00005 a 50,50.00005 0 0 0 49.98609,49.99953 h 50.014 v -99.99958 z" />
+    <path
+       id="path2148"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48583);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 8,158.01953 c 0,28 0,56 0,84 14.004557,0 28.009115,0 42.013672,0 6.950481,0.0104 13.894998,-1.74858 19.99544,-5.08112 7.183645,-3.8982 13.183456,-9.93568 17.03591,-17.14402 3.273308,-6.08368 4.986612,-12.99104 4.954978,-19.89834 0,-13.95884 0,-27.91768 0,-41.87652 -28,0 -56,0 -84,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect3831"
+       inkscape:original-d="m 100.00009,150.01928 v 50.00004 A 50,50.00005 0 0 1 50.014,250.01885 H 0 v -99.99957 z" />
+    <path
+       id="path7532"
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48503)"
+       d="m 800.0918,302.14258 c -5.95252,-0.004 -11.90582,1.10778 -17.44682,3.28562 -6.58722,2.57892 -12.58178,6.64794 -17.42349,11.80423 -4.7451,5.03877 -8.38424,11.11569 -10.56421,17.68594 -1.65123,4.95298 -2.46628,10.17918 -2.43462,15.39888 0,15.86365 0,31.7273 0,47.59095 31.92187,0 63.84375,0 95.76562,0 0,-31.92187 0,-63.84375 0,-95.76562 -15.96549,0 -31.93099,0 -47.89648,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect10326"
+       inkscape:original-d="m 750.10598,400.02485 v -50.00004 a 50,50.00005 0 0 1 49.98609,-49.99953 h 50.014 v 99.99957 z" />
+    <path
+       id="path2150"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48587);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 800.0918,308.02539 c -6.90277,-0.0102 -13.7999,1.72406 -19.86986,5.01282 -7.18753,3.86856 -13.2013,9.87513 -17.07873,17.05786 -3.20964,5.90653 -4.94695,12.59911 -5.03339,19.31974 -0.009,1.63625 -0.002,3.27259 -0.004,4.90888 0,12.5669 0,25.1338 0,37.7007 28,0 56,0 84,0 0,-28 0,-56 0,-84 -14.00456,0 -28.00911,0 -42.01367,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect22287"
+       inkscape:original-d="m 750.10598,400.02485 v -50.00004 a 50,50.00005 0 0 1 49.98609,-49.99953 h 50.014 v 99.99957 z" />
+    <path
+       id="path7534"
+       style="fill:#6f7b7f;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48507)"
+       d="m 902.23047,302.14258 c 0,31.92187 0,63.84375 0,95.76562 31.92187,0 63.84375,0 95.76562,0 -3.7e-4,-16.03832 7.4e-4,-32.07665 -5.6e-4,-48.11497 -0.0233,-5.70477 -1.06894,-11.40566 -3.09735,-16.73884 -2.48064,-6.55098 -6.4314,-12.53547 -11.46275,-17.40766 -3.18092,-3.08246 -6.78629,-5.72986 -10.69137,-7.82168 -0.96469,-0.49016 -1.92365,-0.99275 -2.90985,-1.43913 -1.84208,-0.83987 -3.74053,-1.55731 -5.67742,-2.14626 -1.11324,-0.31954 -2.22684,-0.64041 -3.35659,-0.89761 -3.6501,-0.83997 -7.40037,-1.22913 -11.14471,-1.19947 -15.80834,0 -31.61668,0 -47.42502,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect7730"
+       inkscape:original-d="m 1000.1124,400.02485 v -50.00004 a 50,50.00005 0 0 0 -49.98608,-49.99953 h -50.014 v 99.99957 z" />
+    <path
+       id="path2152"
+       style="fill:#606f76;fill-opacity:1;stroke-width:4.23333308;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48591);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8.46666616, 8.46666616;stroke-dashoffset:0"
+       d="m 908.11328,308.02539 c 0,28 0,56 0,84 28,0 56,0 84,0 -3e-4,-14.06497 6e-4,-28.12993 -4.5e-4,-42.1949 -0.0199,-6.68461 -1.67313,-13.3576 -4.79091,-19.27157 -3.68157,-7.02672 -9.39407,-12.96834 -16.26718,-16.92851 -5.09464,-2.94899 -10.81921,-4.80235 -16.67686,-5.39063 -1.61011,-0.16743 -3.22959,-0.22614 -4.84782,-0.21439 -13.80559,0 -27.61119,0 -41.41678,0 z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect23500"
+       inkscape:original-d="m 1000.1124,400.02485 v -50.00004 a 50,50.00005 0 0 0 -49.98608,-49.99953 h -50.014 v 99.99957 z" />
+    <path
+       id="path42126"
+       style="color:#000000;fill:#545f63;stroke-width:0.999999;-inkscape-stroke:none;filter:url(#filter48599);fill-opacity:1"
+       d="m 448.59961,1133.8613 -70.64453,69.586 v 19.6757 16.8418 0 l 76.66797,75.5215 -76.66797,75.5234 v 16.8496 19.668 l 76.66992,75.5234 -8.89062,8.7578 h 51.98242 l -8.88868,-8.7558 78.10352,-76.9356 78.10352,76.9336 -8.89063,8.7578 H 688.125 l -8.88867,-8.7558 76.66992,-75.5254 v -19.668 -16.8476 0 l -76.66797,-75.5215 76.66797,-75.5214 v 0 -16.8437 -19.6738 l -70.64258,-69.586 h -46.25195 l -72.08203,71.002 -72.08008,-71.002 z m 23.125,10.9102 76.67187,75.5234 1.4336,1.4121 -78.10547,76.9356 -78.10352,-76.9356 z m 190.41406,0 78.10352,76.9355 -78.10547,76.9375 -78.10352,-76.9355 z m -95.20703,93.7832 76.95313,75.8008 1.15039,1.1328 -78.10352,76.9375 -78.10352,-76.9356 z m 95.20703,93.7812 78.10352,76.9356 -78.10547,76.9375 -76.67188,-75.5254 -1.42968,-1.4121 z m -190.41211,0 78.10156,76.9336 -1.43164,1.4121 h -0.002 l -76.66992,75.5234 -78.10156,-76.9336 z"
+       transform="matrix(0.26458333,0,0,0.26458333,-100.00011,150.01795)"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path41922"
+       style="fill:#444d54;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48603);fill-opacity:1"
+       d="M 0,300.0375 V 400.03759 H 100.0001 V 300.0375 Z m 6.31073,6.31073 h 87.37864 v 87.37865 H 6.31073 Z"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       transform="matrix(1.000124,0,0,1,4.9265104e-6,150.01875)" />
+    <path
+       id="path42126-5"
+       style="color:#000000;fill:#545f63;fill-opacity:1;stroke-width:0.999999;-inkscape-stroke:none;filter:url(#filter48599-7)"
+       d="m 448.59961,1133.8613 -70.64453,69.586 v 19.6757 16.8418 l 76.66797,75.5215 -31.67188,31.1992 h 34.20703 l 14.56836,-14.3496 14.56836,14.3496 h 34.20117 l -31.66797,-31.1953 78.10352,-76.9355 76.95313,75.8008 1.15039,1.1328 -31.66993,31.1972 h 34.20508 l 14.56836,-14.3496 14.56836,14.3496 h 34.19922 l -31.66797,-31.1953 76.66797,-75.5214 v -16.8438 -19.6719 l -70.64258,-69.5879 h -46.25195 l -72.08203,71.002 -72.08008,-71.002 z m 23.125,10.9102 76.67187,75.5234 1.4336,1.4121 -78.10547,76.9356 -78.10352,-76.9356 z m 190.41406,0 78.10352,76.9355 -78.10547,76.9375 -78.10352,-76.9355 z"
+       transform="matrix(0.26458333,0,0,0.26458333,200.0374,150.05648)"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path41922-0"
+       style="fill:#444d54;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter48603-1)"
+       d="m 377.95312,1133.8574 v 188.9766 23.8515 h 23.85157 330.25 23.85156 v -23.8515 -188.9766 z m 23.85157,23.8516 h 330.25 v 165.125 h -330.25 z"
+       transform="matrix(0.26458333,0,0,0.26458333,200.0374,150.05648)"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#606f76;fill-opacity:1;stroke-width:2.11666667;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48575);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:4.23333333, 4.23333333;stroke-dashoffset:0"
+       inkscape:path-effect="#path-effect2358"
+       inkscape:original-d="m 50.00003,300.02511 a 50,50.00005 0 0 1 50.00006,50.00005 v -50.00005 z"
+       d="m 79.097656,304.25781 c 6.23933,3.96829 11.652366,9.22683 15.800775,15.3478 0.29402,0.42479 0.599073,0.91401 0.869147,1.30994 0,-5.55258 0,-11.10516 0,-16.65774 -5.556641,0 -11.113281,0 -16.669922,0 z"
+       id="path4535"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#606f76;fill-opacity:1;stroke-width:2.11666667;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48575);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:4.23333333, 4.23333333;stroke-dashoffset:0"
+       inkscape:path-effect="#path-effect2358"
+       inkscape:original-d="m 200.01881,300.04991 a 50,50.00005 0 0 0 -50.00006,50.00005 v -50.00005 z"
+       d="m 154.25195,304.2832 c 0,5.55664 0,11.11328 0,16.66992 3.96829,-6.23933 9.22683,-11.65237 15.34781,-15.80077 0.42479,-0.29402 0.91401,-0.59908 1.30994,-0.86915 -5.55258,0 -11.10517,0 -16.65775,0 z"
+       id="path4533"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#606f76;fill-opacity:1;stroke-width:2.11666667;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48575);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:4.23333333, 4.23333333;stroke-dashoffset:0"
+       inkscape:path-effect="#path-effect2358"
+       inkscape:original-d="m 350.01277,400.02536 a 50,50.00005 0 0 0 50.00006,-50.00005 v 50.00005 z"
+       d="m 395.78125,379.12305 c -3.96829,6.23933 -9.22683,11.65237 -15.3478,15.80077 -0.42479,0.29402 -0.91401,0.59908 -1.30994,0.86915 5.55258,0 11.10516,0 16.65774,0 0,-5.55664 0,-11.11328 0,-16.66992 z"
+       id="path4531"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#606f76;fill-opacity:1;stroke-width:2.11666667;stroke-linecap:butt;stroke-linejoin:miter;paint-order:stroke fill markers;filter:url(#filter48575);stroke:#606f76;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:4.23333333, 4.23333333;stroke-dashoffset:0"
+       inkscape:path-effect="#path-effect2358"
+       inkscape:original-d="m 500.05633,400.02527 a 50,50.00005 0 0 1 -50.00006,-50.00005 v 50.00005 z"
+       d="m 454.28906,379.12305 c 0,5.55664 0,11.11328 0,16.66992 5.55664,0 11.11328,0 16.66992,0 -6.23933,-3.96829 -11.65237,-9.22683 -15.80077,-15.3478 -0.29612,-0.43645 -0.58588,-0.87722 -0.86915,-1.32212 z"
+       id="path2354"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162"
+       cx="17.3934"
+       cy="165.60269"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-5"
+       cx="15.785606"
+       cy="236.3456"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-4"
+       cx="85.651527"
+       cy="166.91817"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-3"
+       cx="87.229813"
+       cy="86.402992"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-34"
+       cx="236.02855"
+       cy="86.252525"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-9"
+       cx="314.83514"
+       cy="86.236183"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-69"
+       cx="385.57806"
+       cy="85.943855"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-2"
+       cx="385.28571"
+       cy="166.33351"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-93"
+       cx="467.13702"
+       cy="86.528511"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-6"
+       cx="236.0787"
+       cy="165.60675"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-58"
+       cx="534.95667"
+       cy="16.662582"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-45"
+       cx="536.41827"
+       cy="85.651527"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-66"
+       cx="468.01398"
+       cy="17.539562"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-62"
+       cx="535.24902"
+       cy="166.62584"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-264"
+       cx="616.80792"
+       cy="166.33351"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-7"
+       cx="686.38153"
+       cy="166.62584"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-1"
+       cx="685.21222"
+       cy="84.774551"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-0"
+       cx="616.80792"
+       cy="84.189903"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-8"
+       cx="766.47888"
+       cy="85.651527"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-88"
+       cx="765.01721"
+       cy="166.04118"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-89"
+       cx="914.98053"
+       cy="164.57956"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-76"
+       cx="916.44214"
+       cy="84.189903"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-73"
+       cx="918.4884"
+       cy="383.53177"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-14"
+       cx="982.80011"
+       cy="384.11642"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-31"
+       cx="833.12921"
+       cy="320.974"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-932"
+       cx="832.54456"
+       cy="385.28574"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-35"
+       cx="684.62756"
+       cy="319.80469"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-452"
+       cx="616.80792"
+       cy="318.05072"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-99"
+       cx="685.21222"
+       cy="387.03967"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-22"
+       cx="771.74072"
+       cy="380.60849"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-883"
+       cx="920.24237"
+       cy="322.72797"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-60"
+       cx="391.13223"
+       cy="392.30154"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-43"
+       cx="459.53653"
+       cy="392.44772"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-21"
+       cx="159.46385"
+       cy="309.42712"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-895"
+       cx="91.059563"
+       cy="308.11163"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#82a2a3;fill-opacity:1;stroke-width:2.24117;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path1162-26"
+       cx="465.38306"
+       cy="165.74887"
+       r="2.6309347"
+       inkscape:export-filename="C:\Users\EthanGrane\DAW2_ProyectoUnity\Assets\Sprites\Tilemap\PlatformerPack.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+  </g>
+</svg>
