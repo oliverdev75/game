@@ -6,10 +6,7 @@ public class GameManager : MonoBehaviour
     public static GameManager instance;
 
     public int numberOfPlayers = 1;
-
-    [Space]
-
-    public InputKeycodes_SO playerInputs;
+    public PlayerScore[] playerScore;
 
     private void Awake()
     {
@@ -26,5 +23,10 @@ public class GameManager : MonoBehaviour
     public void SetNumberOfPlayers(int numberOfPlayers)
     {
         this.numberOfPlayers = numberOfPlayers;
+    }
+
+    public void AddScoreToPlayerId(int id) 
+    {
+        playerScore[id].score += 1;
     }
 }
