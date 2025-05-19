@@ -13,19 +13,40 @@ namespace BASE
         public float jumpHeight = 1.5f;
         [SerializeField] LayerMask GroundlayerMask;
 
+        [Header("Move Player Rotation")]
+        public float rotationAmount = 5f;
+        public float rotationSpeed = 20f;
+
         private Rigidbody2D rb;
         private CircleCollider2D circleCollider;
+        private SpriteRenderer spriteRenderer;
 
         private void Awake()
         {
             rb = GetComponent<Rigidbody2D>();
             circleCollider = GetComponent<CircleCollider2D>();
+            spriteRenderer = GetComponentInChildren<SpriteRenderer>();
         }
+
+        private void Update()
+        {
+            spriteRenderer.flipX = rb.linearVelocity.x > 0;
+
+            float tiltAmount = Mathf.Clamp(rb.linearVelocity.x, -1f, 1f) * rotationAmount;
+
+            transform.rotation = Quaternion.Lerp(
+                transform.rotation,
+                Quaternion.Euler(0, 0, -tiltAmount),
+                Time.deltaTime * rotationSpeed
+            );
+        }
+
 
         public void Move(Vector2 moveDirection)
         {
             if (moveDirection.x != 0)
             {
+
                 // Aceleracion del personaje
                 if (timeToReachMaxSpeed > 0)
                 {

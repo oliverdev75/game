@@ -7,3 +7,5 @@ Logs
 ProjectSettings
 Temp
 UserSettings
+.vs
+*.meta

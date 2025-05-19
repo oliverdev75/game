@@ -30,9 +30,9 @@ namespace BASE
             if (Input.GetKey(inputKeycodes.leftKeycode))
                 inputAxis.x = -1f;
 
-            if (Input.GetKey(inputKeycodes.upKeycode))
+            if (Input.GetKeyDown(inputKeycodes.upKeycode))
                 inputAxis.y = 1f;
-            if (Input.GetKey(inputKeycodes.downKeycode))
+            if (Input.GetKeyDown(inputKeycodes.downKeycode))
                 inputAxis.y = -1f;
 
             return inputAxis;
