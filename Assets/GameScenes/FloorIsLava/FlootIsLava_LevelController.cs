@@ -38,4 +38,8 @@ public class FlootIsLava_LevelController : MonoBehaviour, LevelControllerInterfa
     {
     }
 
+    public void ComproveLevelFinished()
+    {
+        throw new System.NotImplementedException();
+    }
 }
