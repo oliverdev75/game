@@ -13,7 +13,7 @@ namespace BASE
         public float jumpHeight = 1.5f;
         [SerializeField] LayerMask GroundlayerMask;
 
-        [Header("Move Player Rotation")]
+        [Header("Move   Player Rotation")]
         public float rotationAmount = 5f;
         public float rotationSpeed = 20f;
 
