@@ -6,16 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/GAME/Games_Scenes/Bootstrap.unity
+    path: Assets/GAME/Scenes/Persistence/Bootstrap.unity
     guid: 310242f792f23b345a4c05755c3e84e0
   - enabled: 1
-    path: Assets/GAME/Games_Scenes/MainMenu.unity
+    path: Assets/GAME/Scenes/Menu/MainMenu.unity
     guid: 235f2029d48ab984cb224fb146674a73
   - enabled: 1
-    path: Assets/GameScenes/GameSelection.unity
+    path: Assets/GAME/Scenes/Levels/GameSelection.unity
     guid: e7b79aa7405556448b22bd910320b655
   - enabled: 1
-    path: Assets/GameScenes/FloorIsLava/Level_FloorIsLava.unity
+    path: Assets/GAME/Scenes/Levels/FloorIsLava/Level_FloorIsLava.unity
     guid: 86f6626b7f784ee45ab7e2153905b924
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
