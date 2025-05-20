@@ -4,8 +4,6 @@ DAW2_ProyectoUnity.sln
 ignore.conf
 Library
 Logs
-ProjectSettings
 Temp
 UserSettings
 .vs
-*.meta
