@@ -9,11 +9,10 @@ public class PlayerSpawnManager : MonoBehaviour
     public GameObject[] players;
     public GameObject[] spawnObjects;
     public InputKeycodes_SO[] playerInputs;
-    public int numberOfPlayers = 2;
 
     void Start()
     {
-        numberOfPlayers = 2;
+        int numberOfPlayers = GameManager.instance.numberOfPlayers;
         players = new GameObject[numberOfPlayers];
         
         int spawnIndex = Random.Range(0, spawnObjects.Length);
@@ -30,4 +29,5 @@ public class PlayerSpawnManager : MonoBehaviour
             }
         }
     }
+
 }

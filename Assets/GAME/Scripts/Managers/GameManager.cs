@@ -3,13 +3,15 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    public static GameManager instance;
+    public static GameManager instance;     // Singleton
 
+    [Range(1, 4)]                           // Añade un slider para facilitar la asignacion de datos desde el editmode
     public int numberOfPlayers = 1;
     public PlayerScore[] playerScore;
 
     private void Awake()
     {
+        // Singelton Pattern
         if (instance != null && instance != this)
         {
             Destroy(gameObject);
@@ -23,6 +25,7 @@ public class GameManager : MonoBehaviour
     public void SetNumberOfPlayers(int numberOfPlayers)
     {
         this.numberOfPlayers = numberOfPlayers;
+        playerScore = new PlayerScore[numberOfPlayers];
     }
 
     public void AddScoreToPlayerId(int id) 

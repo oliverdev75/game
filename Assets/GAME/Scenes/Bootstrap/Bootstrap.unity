@@ -148,9 +148,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a0d53504770a4d4695f267e01beaa3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameLevelsScenesNames:
-  - SceneName: GameSelection
-  - SceneName: Level_FloorIsLava
+  gameSelectionScene:
+    scene: {fileID: 102900000, guid: e7b79aa7405556448b22bd910320b655, type: 3}
+    timesPlayed: 0
+  gameLevelsScenes:
+  - scene: {fileID: 102900000, guid: 86f6626b7f784ee45ab7e2153905b924, type: 3}
+    timesPlayed: 0
+  - scene: {fileID: 102900000, guid: 4eba5f90ca80f72438b7a87ff4b222cb, type: 3}
+    timesPlayed: 0
 --- !u!4 &922856397
 Transform:
   m_ObjectHideFlags: 0
@@ -195,6 +200,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8dc0c87d2aadcb41a29f6c6ac8fdaec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  DEBUG_loadSceneName: 
 --- !u!4 &1109325719
 Transform:
   m_ObjectHideFlags: 0

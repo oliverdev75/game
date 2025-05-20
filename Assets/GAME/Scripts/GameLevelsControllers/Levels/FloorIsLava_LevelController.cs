@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class FlootIsLava_LevelController : MonoBehaviour, LevelControllerInterface
+public class FloorIsLava_LevelController : MonoBehaviour, LevelControllerInterface
 {
     public Transform lavaTransform;
     public float lavaSpeed;
@@ -11,7 +11,8 @@ public class FlootIsLava_LevelController : MonoBehaviour, LevelControllerInterfa
 
     void Update()
     {
-        lavaTransform.Translate(Vector2.up * lavaSpeed *  Time.deltaTime);
+        if(levelStarted)
+            lavaTransform.Translate(Vector2.up * lavaSpeed *  Time.deltaTime);
     }
 
     void OnDrawGizmos()
