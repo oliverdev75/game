@@ -6,8 +6,10 @@ public class Bootstrap : MonoBehaviour
 {
     [SerializeField] string DEBUG_loadSceneName;
 
-    void Start()
+    async void Start()
     {
+        await SceneManager.LoadSceneAsync("Managers", LoadSceneMode.Additive);
+
         if (string.IsNullOrEmpty(DEBUG_loadSceneName))
             SceneManager.LoadScene("MainMenu");
         else

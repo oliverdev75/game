@@ -30,7 +30,8 @@ namespace BASE
 
         private void Update()
         {
-            spriteRenderer.flipX = rb.linearVelocity.x > 0;
+            if(Mathf.Abs(rb.linearVelocityX) > 0.1f)
+                spriteRenderer.flipX = rb.linearVelocity.x > 0;
 
             float tiltAmount = Mathf.Clamp(rb.linearVelocity.x, -1f, 1f) * rotationAmount;
 

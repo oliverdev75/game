@@ -4,21 +4,34 @@ using UnityEngine.Serialization;
 
 namespace BASE
 {
-    [RequireComponent(typeof(CharacterMover))]
+    [RequireComponent(typeof(CharacterMover), typeof(CharacterKick))]
     public class PlayerController : MonoBehaviour
     {
-        [SerializeField] CharacterMover characterMover;
+        CharacterMover characterMover;
+        CharacterKick characterKick;
         public InputKeycodes_SO inputKeycodes;
+        public Vector2 lastLookDir = Vector2.zero;
 
+        private void Awake()
+        {
+            characterMover = GetComponent<CharacterMover>();
+            characterKick = GetComponent<CharacterKick>();
+        }
 
         private void Update()
         {
             Vector2 moveDir = ReadInputs();
 
+            if(moveDir.x != 0)
+                lastLookDir.x = moveDir.x;
+
             characterMover.Move(moveDir);
 
             if (moveDir.y > 0)
                 characterMover.Jump();
+
+            if (moveDir.y < 0)
+                characterKick.Kick(transform.position, lastLookDir);
         }
 
         Vector2 ReadInputs()

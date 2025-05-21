@@ -52,7 +52,6 @@ public class GameSelection_LevelController : MonoBehaviour, LevelControllerInter
         if (timer != null)
         {
             timer.Update(Time.deltaTime);
-            Debug.Log(timer.GetElapsedTimeNormalized());
         }
     }
 

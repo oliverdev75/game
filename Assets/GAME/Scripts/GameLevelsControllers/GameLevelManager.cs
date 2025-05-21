@@ -36,7 +36,6 @@ public class GameLevelManager : MonoBehaviour
     {
         LoadGameLevelScene(gameSelectionScene);
     }
-
     public GameLevelData[] GetGameLevelsData()
     {
         return gameLevelsScenes;
