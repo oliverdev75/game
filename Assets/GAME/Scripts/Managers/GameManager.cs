@@ -9,6 +9,8 @@ public class GameManager : MonoBehaviour
     public int numberOfPlayers = 1;
     public PlayerScore[] playerScore;
 
+    public bool inputsAreEnabled = true;
+
     private void Awake()
     {
         // Singelton Pattern

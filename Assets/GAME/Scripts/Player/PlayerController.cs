@@ -9,8 +9,9 @@ namespace BASE
     {
         CharacterMover characterMover;
         CharacterKick characterKick;
+        Vector2 lastLookDir = Vector2.zero;
+
         public InputKeycodes_SO inputKeycodes;
-        public Vector2 lastLookDir = Vector2.zero;
 
         private void Awake()
         {
@@ -20,6 +21,9 @@ namespace BASE
 
         private void Update()
         {
+            if (GameManager.instance.inputsAreEnabled == false)
+                return;
+
             Vector2 moveDir = ReadInputs();
 
             if(moveDir.x != 0)

@@ -148,7 +148,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 983615436d9ad4948a51df6cf6d4c2c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numberOfPlayers: 1
+  numberOfPlayers: 2
+  inputsAreEnabled: 1
 --- !u!4 &1005845243
 Transform:
   m_ObjectHideFlags: 0
@@ -196,11 +197,16 @@ MonoBehaviour:
   gameSelectionScene:
     scene: {fileID: 102900000, guid: e7b79aa7405556448b22bd910320b655, type: 3}
     timesPlayed: 0
+    thumbnail: {fileID: 0}
   gameLevelsScenes:
   - scene: {fileID: 102900000, guid: 86f6626b7f784ee45ab7e2153905b924, type: 3}
     timesPlayed: 0
-  - scene: {fileID: 102900000, guid: 4eba5f90ca80f72438b7a87ff4b222cb, type: 3}
+    thumbnail: {fileID: 21300000, guid: 44c9279d5808fcf438235cde086c286f, type: 3}
+  - scene: {fileID: 102900000, guid: 91e17c8bc8471dc498f035aef29c5132, type: 3}
     timesPlayed: 0
+    thumbnail: {fileID: 21300000, guid: e6f11540afd1aee439b2047c45093e4d, type: 3}
+  finishGameAnimation: {fileID: 103278290507222739, guid: f7aff589da9211e4d88cd1fc85321fae, type: 3}
+  reversedCountdownAnimation: {fileID: 3159376326921871933, guid: 6d96894d16f2e6e49b05d86fc4f9e0b1, type: 3}
 --- !u!4 &2033634944
 Transform:
   m_ObjectHideFlags: 0

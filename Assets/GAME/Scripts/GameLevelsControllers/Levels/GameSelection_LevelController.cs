@@ -2,9 +2,6 @@ using UnityEngine;
 
 public class GameSelection_LevelController : MonoBehaviour, LevelControllerInterface
 {
-    [Header("Game Selection Scenes")]
-    public GameLevelData gameLevelData1;
-    public GameLevelData gameLevelData2;
 
     [Header("Game Selection Paramters")]
     public Vector2 levelOption1Position;
@@ -12,7 +9,16 @@ public class GameSelection_LevelController : MonoBehaviour, LevelControllerInter
     public Vector2 zoneSize = Vector2.one;
     public LayerMask playerLayer;
 
+    [Header("Game Thumbnails")]
+    public SpriteRenderer levelOption1Thumbnail;
+    public SpriteRenderer levelOption2Thumbnail;
+
+    [Header("Timer Display")]
+    public TimerDisplay timerDisplay;
+
     Timer timer;
+    GameLevelData gameLevelData1;
+    GameLevelData gameLevelData2;
 
 
     [ContextMenu("Finish")]
@@ -39,12 +45,16 @@ public class GameSelection_LevelController : MonoBehaviour, LevelControllerInter
     public void StartLevel()
     {
         timer = new Timer();
-        timer.Start(15f);   // 30 segundos para que el nivel acabe
+        timer.Start(10f);   // 30 segundos para que el nivel acabe
         timer.OnTimerFinished += FinishLevel;
+        timerDisplay.SetTimer(timer);
 
         GameLevelData[] allGameLevelsData = GameLevelManager.instance.GetGameLevelsData();
         gameLevelData1 = allGameLevelsData[0];
         gameLevelData2 = allGameLevelsData[1];
+
+        levelOption1Thumbnail.sprite = gameLevelData1.thumbnail;
+        levelOption2Thumbnail.sprite = gameLevelData2.thumbnail;
     }
 
     void Update()

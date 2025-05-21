@@ -1,3 +1,5 @@
+using System.Threading.Tasks;
+using BASE;
 using UnityEngine;
 
 public class CharacterKick : MonoBehaviour
@@ -10,6 +12,13 @@ public class CharacterKick : MonoBehaviour
     private Vector2 lastOrigin;
     private Vector2 lastDirection;
     private float rayLength = 2f;
+
+    PlayerController playerController;
+
+    private void Awake()
+    {
+        playerController = GetComponent<PlayerController>();
+    }
 
     public void Kick(Vector2 origin, Vector2 direction)
     {
@@ -37,9 +46,20 @@ public class CharacterKick : MonoBehaviour
             {
                 Rigidbody2D rb = hit.transform.GetComponent<Rigidbody2D>();
                 rb.AddForce(lastDirection * kickForce, ForceMode2D.Impulse);
+                hit.transform.GetComponent<CharacterKick>().KickStunCurrentPlayer();
             }
         }
     }
+
+    public async void KickStunCurrentPlayer()
+    {
+        playerController.enabled = false;
+
+        await Task.Delay(250);
+
+        playerController.enabled = true;
+    }
+
 
     private void OnDrawGizmos()
     {
@@ -51,3 +71,4 @@ public class CharacterKick : MonoBehaviour
         Gizmos.DrawSphere(lastOrigin, 0.05f);
     }
 }
+

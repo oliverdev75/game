@@ -12,6 +12,10 @@ public class GameLevelManager : MonoBehaviour
     public GameLevelData gameSelectionScene;
     public GameLevelData[] gameLevelsScenes;
 
+    [Header("Animations")]
+    public GameObject finishGameAnimation;
+    public GameObject reversedCountdownAnimation;
+
     GameObject levelControllerInterface;
 
     private void Awake()
@@ -31,6 +35,18 @@ public class GameLevelManager : MonoBehaviour
         LoadGameLevelScene(gameLevelsScenes[UnityEngine.Random.Range(0,gameLevelsScenes.Length)]);
     }
 
+    [ContextMenu("DEBUG ReloadCurrentScene")]
+    public void DEBUG_ReloadCurrentScene()
+    {
+        string currentActiveSceneName = SceneManager.GetActiveScene().name;
+
+        foreach (var scene in gameLevelsScenes) 
+        {
+            if (scene.scene.name == currentActiveSceneName)
+                LoadGameLevelScene(scene);
+        }
+    }
+
     [ContextMenu("LoadGameLevelSelectorScene")]
     public void LoadGameLevelSelectorScene()
     {
@@ -48,7 +64,21 @@ public class GameLevelManager : MonoBehaviour
         levelControllerInterface = FindObjectsByType<MonoBehaviour>(sortMode: FindObjectsSortMode.None)
             .FirstOrDefault(obj => obj is LevelControllerInterface)?.gameObject;
 
-        levelControllerInterface.GetComponent<LevelControllerInterface>().StartLevel();
+        if(gameLevelData.scene.name == gameSelectionScene.scene.name)
+        {
+            levelControllerInterface.GetComponent<LevelControllerInterface>().StartLevel();
+        }
+        else
+        {
+            ReversedCountdownAnimation animation = Instantiate(reversedCountdownAnimation).GetComponent<ReversedCountdownAnimation>();
+            animation.PlayAnimation();
+            animation.onFinishAnimation += () =>
+            {
+                levelControllerInterface.GetComponent<LevelControllerInterface>().StartLevel();
+            };
+        }
+
+
     }
 
     public void ResetGameLevelsData()
@@ -64,7 +94,13 @@ public class GameLevelManager : MonoBehaviour
         CharacterHealth[] playersOnScene = GameObject.FindObjectsByType<CharacterHealth>(FindObjectsSortMode.None);
         if(playersOnScene.Length <= 1)
         {
-            levelControllerInterface.GetComponent<LevelControllerInterface>().FinishLevel();
+            FinishGameAnimation finishGameAnim = Instantiate(finishGameAnimation).GetComponent<FinishGameAnimation>();
+            finishGameAnim.PlayAnimation();
+            finishGameAnim.OnAnimationFinished += () =>
+            {
+                levelControllerInterface.GetComponent<LevelControllerInterface>().FinishLevel();
+                LoadGameLevelSelectorScene();
+            };
         }
 
     }
@@ -75,4 +111,5 @@ public struct GameLevelData
 {
     public SceneAsset scene;
     public int timesPlayed;
+    public Sprite thumbnail;
 }

@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/GAME/Scenes/Levels/FloorIsLava/Level_FloorIsLava.unity
     guid: 86f6626b7f784ee45ab7e2153905b924
   - enabled: 1
+    path: Assets/GAME/Scenes/Levels/Arena/Level_Arena.unity
+    guid: 91e17c8bc8471dc498f035aef29c5132
+  - enabled: 1
     path: Assets/GAME/Scenes/Bootstrap/Managers.unity
     guid: ea184f68326823d40876cc6ee90763c9
   m_configObjects: {}

@@ -10,7 +10,8 @@ public class CharacterHealth : MonoBehaviour
     public void Death()
     {
         Instantiate(deathSplashEffect,transform.position, Quaternion.identity);
-        GameLevelManager.instance.CheckGameLevelFinished();
         gameObject.SetActive(false);
+
+        GameLevelManager.instance.CheckGameLevelFinished();
     }
 }
