@@ -1,6 +1,7 @@
 using System;
 using System.Linq;
 using System.Collections;
+using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEditor;
@@ -15,6 +16,7 @@ public class GameLevelManager : MonoBehaviour
     [Header("Animations")]
     public GameObject finishGameAnimation;
     public GameObject reversedCountdownAnimation;
+    public GameObject fadeTransitionAnimation;
 
     GameObject levelControllerInterface;
 
@@ -59,11 +61,16 @@ public class GameLevelManager : MonoBehaviour
 
     public async void LoadGameLevelScene(GameLevelData gameLevelData)
     {
+        await InstantiateTransition(easeIn: false);
+        
         await SceneManager.LoadSceneAsync(gameLevelData.scene.name);
 
         levelControllerInterface = FindObjectsByType<MonoBehaviour>(sortMode: FindObjectsSortMode.None)
             .FirstOrDefault(obj => obj is LevelControllerInterface)?.gameObject;
-
+        
+        await InstantiateTransition(easeIn: true);
+        
+        // Start level controller interface
         if(gameLevelData.scene.name == gameSelectionScene.scene.name)
         {
             levelControllerInterface.GetComponent<LevelControllerInterface>().StartLevel();
@@ -77,7 +84,6 @@ public class GameLevelManager : MonoBehaviour
                 levelControllerInterface.GetComponent<LevelControllerInterface>().StartLevel();
             };
         }
-
 
     }
 
@@ -102,8 +108,27 @@ public class GameLevelManager : MonoBehaviour
                 LoadGameLevelSelectorScene();
             };
         }
-
     }
+
+    public Task InstantiateTransition(bool easeIn)
+    {
+        FadeTransition transition = Instantiate(fadeTransitionAnimation).GetComponent<FadeTransition>();
+        Destroy(transition.gameObject, 3f);
+
+        if (easeIn)
+        {
+            Vector2 center = Vector2.zero;
+            if(GameObject.Find("SpawnPoint"))
+                Camera.main.WorldToScreenPoint(GameObject.Find("SpawnPoint").transform.position);
+            
+            return transition.FadeIn(1f);
+        }
+        else
+        {
+            return transition.FadeOut(1f);
+        }
+    }
+    
 }
 
 [Serializable]

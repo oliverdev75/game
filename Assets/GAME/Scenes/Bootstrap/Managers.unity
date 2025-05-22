@@ -207,6 +207,7 @@ MonoBehaviour:
     thumbnail: {fileID: 21300000, guid: e6f11540afd1aee439b2047c45093e4d, type: 3}
   finishGameAnimation: {fileID: 103278290507222739, guid: f7aff589da9211e4d88cd1fc85321fae, type: 3}
   reversedCountdownAnimation: {fileID: 3159376326921871933, guid: 6d96894d16f2e6e49b05d86fc4f9e0b1, type: 3}
+  fadeTransitionAnimation: {fileID: 3547182224445457765, guid: a458d06f7a003ae488594cb456f42557, type: 3}
 --- !u!4 &2033634944
 Transform:
   m_ObjectHideFlags: 0
