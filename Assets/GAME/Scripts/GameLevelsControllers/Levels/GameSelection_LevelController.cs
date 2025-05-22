@@ -50,8 +50,14 @@ public class GameSelection_LevelController : MonoBehaviour, LevelControllerInter
         timerDisplay.SetTimer(timer);
 
         GameLevelData[] allGameLevelsData = GameLevelManager.instance.GetGameLevelsData();
-        gameLevelData1 = allGameLevelsData[0];
-        gameLevelData2 = allGameLevelsData[1];
+        int level1Index = Random.Range(0, allGameLevelsData.Length);
+        int level2Index = Random.Range(0, allGameLevelsData.Length);
+
+        if (level1Index == level2Index)
+            level2Index = (level2Index + 1) % allGameLevelsData.Length;
+
+        gameLevelData1 = allGameLevelsData[level1Index];
+        gameLevelData2 = allGameLevelsData[level2Index];
 
         levelOption1Thumbnail.sprite = gameLevelData1.thumbnail;
         levelOption2Thumbnail.sprite = gameLevelData2.thumbnail;
@@ -62,6 +68,15 @@ public class GameSelection_LevelController : MonoBehaviour, LevelControllerInter
         if (timer != null)
         {
             timer.Update(Time.deltaTime);
+        }
+
+        RaycastHit2D[] hits_zone1 = Physics2D.BoxCastAll(levelOption1Position, zoneSize, 0, Vector2.up, zoneSize.magnitude, playerLayer);
+        RaycastHit2D[] hits_zone2 = Physics2D.BoxCastAll(levelOption2Position, zoneSize, 0, Vector2.up, zoneSize.magnitude, playerLayer);
+
+        if (hits_zone1.Length + hits_zone2.Length == GameManager.instance.numberOfPlayers && timer.IsRunning)
+        {
+            timer.Stop();
+            FinishLevel();
         }
     }
 

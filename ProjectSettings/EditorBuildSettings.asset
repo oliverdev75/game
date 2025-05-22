@@ -15,11 +15,23 @@ EditorBuildSettings:
     path: Assets/GAME/Scenes/Levels/GameSelection.unity
     guid: e7b79aa7405556448b22bd910320b655
   - enabled: 1
-    path: Assets/GAME/Scenes/Levels/FloorIsLava/Level_FloorIsLava.unity
+    path: Assets/GAME/Scenes/Levels/FloorIsLava/Level_FloorIsLava_1.unity
     guid: 86f6626b7f784ee45ab7e2153905b924
   - enabled: 1
-    path: Assets/GAME/Scenes/Levels/Arena/Level_Arena.unity
+    path: Assets/GAME/Scenes/Levels/FloorIsLava/Level_FloorIsLava_2.unity
+    guid: 9c7a68283dc7e884abfb236b6a849660
+  - enabled: 1
+    path: Assets/GAME/Scenes/Levels/FloorIsLava/Level_FloorIsLava_3.unity
+    guid: cbfcc1672d74f9944babf5ef148c6dea
+  - enabled: 1
+    path: Assets/GAME/Scenes/Levels/Arena/Level_Arena_1.unity
     guid: 91e17c8bc8471dc498f035aef29c5132
+  - enabled: 1
+    path: Assets/GAME/Scenes/Levels/Arena/Level_Arena_2.unity
+    guid: c1c95088a805c9945a251139de216ada
+  - enabled: 1
+    path: Assets/GAME/Scenes/Levels/Arena/Level_Arena_3.unity
+    guid: 042b4aab363b84b46a1d00db20098fb3
   - enabled: 1
     path: Assets/GAME/Scenes/Bootstrap/Managers.unity
     guid: ea184f68326823d40876cc6ee90763c9
