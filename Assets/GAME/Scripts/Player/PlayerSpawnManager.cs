@@ -1,6 +1,8 @@
+using System;
 using System.Collections;
 using BASE;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class PlayerSpawnManager : MonoBehaviour
 {
@@ -9,7 +11,7 @@ public class PlayerSpawnManager : MonoBehaviour
     public GameObject[] players;
     public GameObject[] spawnObjects;
     public InputKeycodes_SO[] playerInputs;
-    public Color[] playerColors;
+    public PlayerSkinData[] playerSkins;
 
     void Start()
     {
@@ -23,11 +25,11 @@ public class PlayerSpawnManager : MonoBehaviour
             players[i].transform.position = spawnObjects[spawnIndex].transform.position;
             players[i].GetComponent<PlayerController>().inputKeycodes = playerInputs[i];
             
-            // Player color
-            SpriteRenderer[] spriteRenderer = players[i].GetComponentsInChildren<SpriteRenderer>();
-            for (int j = 0; j < spriteRenderer.Length; j++)
-                spriteRenderer[j].color = playerColors[i];
-
+            // Player skin
+            players[i].GetComponentInChildren<SpriteRenderer>().sprite = playerSkins[i].sprite;
+            players[i].GetComponentInChildren<CharacterLegsAnimation>().SetLegColor(playerSkins[i].color);
+            players[i].GetComponentInChildren<CharacterHealth>().SetDeathSplashColor(playerSkins[i].color);
+            
             spawnIndex++;
             if (spawnIndex >= spawnObjects.Length)
             {
@@ -36,4 +38,11 @@ public class PlayerSpawnManager : MonoBehaviour
         }
     }
 
+    [Serializable]
+    public struct PlayerSkinData
+    {
+        public Sprite sprite;
+        public Color color;
+    }
+    
 }

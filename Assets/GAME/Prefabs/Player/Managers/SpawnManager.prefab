@@ -56,8 +56,12 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 973a4b0350ace61468e1992ff6748153, type: 2}
   - {fileID: 11400000, guid: 3e11aa21d3992a04d91c71b9939638c5, type: 2}
   - {fileID: 11400000, guid: bc7abd5a783f12a42844c9408ac6770e, type: 2}
-  playerColors:
-  - {r: 1, g: 0.72380954, b: 0, a: 1}
-  - {r: 0, g: 0.8666668, b: 1, a: 1}
-  - {r: 0.6428572, g: 1, b: 0, a: 1}
-  - {r: 1, g: 1, b: 1, a: 1}
+  playerSkins:
+  - sprite: {fileID: 21300000, guid: 60e506ea10d8b3647a3ce89748950026, type: 3}
+    color: {r: 1, g: 0.7921569, b: 0, a: 1}
+  - sprite: {fileID: 21300000, guid: 26ef112460a44ce40ae82fa8c77c501c, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - sprite: {fileID: 21300000, guid: 239faa49c7158b84cae51b349918d5d4, type: 3}
+    color: {r: 0, g: 0.7647059, b: 1, a: 1}
+  - sprite: {fileID: 21300000, guid: bd076fc41c2a69447beaeb2af919643b, type: 3}
+    color: {r: 1, g: 0.3372549, b: 0.98039216, a: 1}

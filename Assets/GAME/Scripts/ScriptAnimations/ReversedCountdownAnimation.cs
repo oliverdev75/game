@@ -23,7 +23,7 @@ public class ReversedCountdownAnimation : MonoBehaviour
 
     IEnumerator ReversedCountdownAnimationCorutine()
     {
-        const float TIME_WAIT = 0.6f;
+        const float TIME_WAIT = 0.6f;       // Se hace menos pesada la espera
 
         GameManager.instance.inputsAreEnabled = false;
 
