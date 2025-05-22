@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 using UnityEngine;
-
+using DG.Tweening;
 public class FinishGameAnimation : MonoBehaviour
 {
 
@@ -25,23 +25,32 @@ public class FinishGameAnimation : MonoBehaviour
 
     IEnumerator FinishGameAnimationCorutine()
     {
-        Time.timeScale = 0.1f;
+        const float TARGET_ORT_SIZE = 3f;
+        const float FOLLOW_DURATION = 5f;
+        const float ZOOM_DURATION = 0.5f;
 
         camera.enabled = true;
 
-        Vector3 playerPos = GameObject.FindFirstObjectByType<CharacterHealth>(FindObjectsInactive.Exclude).transform.position;
-        if (playerPos == null)
-            playerPos = GameObject.FindFirstObjectByType<CharacterHealth>(FindObjectsInactive.Include).transform.position;
+        Transform playerTransform = GameObject.FindFirstObjectByType<CharacterHealth>(FindObjectsInactive.Exclude).transform;
 
-        transform.position = playerPos;
+        if (playerTransform == null)
+            yield break;
 
-        yield return new WaitForSecondsRealtime(3f);
+        // Zoom out
+        Tween zoomTween = camera.DOOrthoSize(TARGET_ORT_SIZE, ZOOM_DURATION).SetEase(Ease.InOutSine).SetUpdate(true);
+
+        float elapsed = 0f;
+
+        while (elapsed < FOLLOW_DURATION)
+        {
+            transform.position = Vector3.Lerp(transform.position, playerTransform.position, Time.unscaledDeltaTime * 5f);
+            elapsed += Time.unscaledDeltaTime;
+            yield return null;
+        }
 
         camera.enabled = false;
         coroutine = null;
-
         OnAnimationFinished?.Invoke();
-
-        Time.timeScale = 1.0f;
     }
+
 }

@@ -100,11 +100,12 @@ public class GameLevelManager : MonoBehaviour
         CharacterHealth[] playersOnScene = GameObject.FindObjectsByType<CharacterHealth>(FindObjectsSortMode.None);
         if(playersOnScene.Length <= 1)
         {
+            levelControllerInterface.GetComponent<LevelControllerInterface>().FinishLevel();
+
             FinishGameAnimation finishGameAnim = Instantiate(finishGameAnimation).GetComponent<FinishGameAnimation>();
             finishGameAnim.PlayAnimation();
             finishGameAnim.OnAnimationFinished += () =>
             {
-                levelControllerInterface.GetComponent<LevelControllerInterface>().FinishLevel();
                 LoadGameLevelSelectorScene();
             };
         }

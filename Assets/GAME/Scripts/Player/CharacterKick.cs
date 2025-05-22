@@ -57,7 +57,7 @@ public class CharacterKick : MonoBehaviour
 
         await Task.Delay(250);
 
-        playerController.enabled = true;
+        playerController.enabled = true;    
     }
 
 

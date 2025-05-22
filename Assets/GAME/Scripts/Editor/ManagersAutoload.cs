@@ -3,6 +3,8 @@ using UnityEngine.SceneManagement;
 
 public static class ManagersAutoload
 {
+    /*
+    // Es mas sencillo usar el Bootstrap (autoload)
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
     static void LoadBootstrap()
     {
@@ -11,4 +13,5 @@ public static class ManagersAutoload
             SceneManager.LoadScene("Managers", LoadSceneMode.Additive);
         }
     }
+    */
 }
