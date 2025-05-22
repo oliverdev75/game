@@ -400,7 +400,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inputKeycodes: {fileID: 11400000, guid: 6804ff3aebda8c345a878fd48099d7d3, type: 2}
-  lastLookDir: {x: 0, y: 0}
 --- !u!114 &37649502824114162
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -444,7 +443,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   kickParticleSystem: {fileID: 6924448243488476643}
-  kickForce: 25
+  kickForce: 33
+  kickStunMiliMillisecondsDelay: 500
   playerMask:
     serializedVersion: 2
     m_Bits: 128

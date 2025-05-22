@@ -1,12 +1,15 @@
 using System.Threading.Tasks;
 using BASE;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class CharacterKick : MonoBehaviour
 {
     public ParticleSystem kickParticleSystem;
 
     public float kickForce;
+    [FormerlySerializedAs("kickStunSec")] [Range(100,1000)]
+    public int kickStunMiliMillisecondsDelay = 250;
     public LayerMask playerMask;
 
     private Vector2 lastOrigin;
@@ -55,7 +58,7 @@ public class CharacterKick : MonoBehaviour
     {
         playerController.enabled = false;
 
-        await Task.Delay(250);
+        await Task.Delay(kickStunMiliMillisecondsDelay);
 
         playerController.enabled = true;    
     }

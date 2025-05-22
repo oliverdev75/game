@@ -9,6 +9,7 @@ public class PlayerSpawnManager : MonoBehaviour
     public GameObject[] players;
     public GameObject[] spawnObjects;
     public InputKeycodes_SO[] playerInputs;
+    public Color[] playerColors;
 
     void Start()
     {
@@ -21,6 +22,11 @@ public class PlayerSpawnManager : MonoBehaviour
             players[i] = Instantiate(playerPrefab);
             players[i].transform.position = spawnObjects[spawnIndex].transform.position;
             players[i].GetComponent<PlayerController>().inputKeycodes = playerInputs[i];
+            
+            // Player color
+            SpriteRenderer[] spriteRenderer = players[i].GetComponentsInChildren<SpriteRenderer>();
+            for (int j = 0; j < spriteRenderer.Length; j++)
+                spriteRenderer[j].color = playerColors[i];
 
             spawnIndex++;
             if (spawnIndex >= spawnObjects.Length)

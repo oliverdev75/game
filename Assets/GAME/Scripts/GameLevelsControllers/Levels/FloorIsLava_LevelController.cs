@@ -30,6 +30,11 @@ public class FloorIsLava_LevelController : MonoBehaviour, LevelControllerInterfa
         levelStarted = true;
     }
 
+    void OnValidate()
+    {
+        lavaTransform.transform.position = new Vector2(lavaTransform.position.x, lavaStartHeight - (lavaTransform.localScale.y * 0.5f));
+    }
+    
     public void FinishLevel()
     {
         levelStarted = false;

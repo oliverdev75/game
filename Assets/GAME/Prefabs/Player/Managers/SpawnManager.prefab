@@ -54,4 +54,10 @@ MonoBehaviour:
   playerInputs:
   - {fileID: 11400000, guid: 6804ff3aebda8c345a878fd48099d7d3, type: 2}
   - {fileID: 11400000, guid: 973a4b0350ace61468e1992ff6748153, type: 2}
-  numberOfPlayers: 4
+  - {fileID: 11400000, guid: 3e11aa21d3992a04d91c71b9939638c5, type: 2}
+  - {fileID: 11400000, guid: bc7abd5a783f12a42844c9408ac6770e, type: 2}
+  playerColors:
+  - {r: 1, g: 0.72380954, b: 0, a: 1}
+  - {r: 0, g: 0.8666668, b: 1, a: 1}
+  - {r: 0.6428572, g: 1, b: 0, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}

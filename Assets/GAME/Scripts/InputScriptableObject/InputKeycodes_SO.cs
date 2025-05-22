@@ -10,5 +10,10 @@ namespace BASE
         public KeyCode downKeycode;
         public KeyCode rightKeycode;
         public KeyCode leftKeycode;
+
+        public string alt_upAxis;
+        public string alt_downAxis;
+        public string alt_rightAxis;
+        public string alt_leftAxis;
     }
 }
