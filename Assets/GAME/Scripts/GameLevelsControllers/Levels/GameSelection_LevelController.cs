@@ -45,7 +45,7 @@ public class GameSelection_LevelController : MonoBehaviour, LevelControllerInter
     public void StartLevel()
     {
         timer = new Timer();
-        timer.Start(10f);   // 30 segundos para que el nivel acabe
+        timer.Start(10f,true);   // 30 segundos para que el nivel acabe
         timer.OnTimerFinished += FinishLevel;
         timerDisplay.SetTimer(timer);
 

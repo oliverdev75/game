@@ -12,7 +12,10 @@ public class MainMenuController : MonoBehaviour
     public GameObject howToPlayPanel;
     private void Awake()
     {
-        howToPlayButton.onClick.AddListener(() => { howToPlayPanel.SetActive(true); });
+        howToPlayButton.onClick.AddListener(() =>
+        {
+            howToPlayPanel.SetActive(true);
+        });
         
         numberOfPlayersSlider.onValueChanged.AddListener((float v) =>
         {

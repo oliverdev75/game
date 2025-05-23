@@ -2731,8 +2731,12 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1313447173073154180, guid: 7824c47451ade374982cec0cdc81e24c, type: 3}
+      propertyPath: timerText_gradient.ctime0
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1313447173073154180, guid: 7824c47451ade374982cec0cdc81e24c, type: 3}
       propertyPath: timerText_gradient.ctime1
-      value: 40632
+      value: 15806
       objectReference: {fileID: 0}
     - target: {fileID: 1313447173073154180, guid: 7824c47451ade374982cec0cdc81e24c, type: 3}
       propertyPath: timerText_gradient.ctime2
@@ -2744,15 +2748,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1313447173073154180, guid: 7824c47451ade374982cec0cdc81e24c, type: 3}
       propertyPath: timerText_gradient.key0.b
-      value: 0.027062893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1313447173073154180, guid: 7824c47451ade374982cec0cdc81e24c, type: 3}
       propertyPath: timerText_gradient.key0.g
-      value: 1
+      value: 0.055104025
       objectReference: {fileID: 0}
     - target: {fileID: 1313447173073154180, guid: 7824c47451ade374982cec0cdc81e24c, type: 3}
       propertyPath: timerText_gradient.key0.r
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1313447173073154180, guid: 7824c47451ade374982cec0cdc81e24c, type: 3}
       propertyPath: timerText_gradient.key1.b
@@ -2768,15 +2772,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1313447173073154180, guid: 7824c47451ade374982cec0cdc81e24c, type: 3}
       propertyPath: timerText_gradient.key2.b
-      value: 0
+      value: 0.027062893
       objectReference: {fileID: 0}
     - target: {fileID: 1313447173073154180, guid: 7824c47451ade374982cec0cdc81e24c, type: 3}
       propertyPath: timerText_gradient.key2.g
-      value: 0.055104025
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1313447173073154180, guid: 7824c47451ade374982cec0cdc81e24c, type: 3}
       propertyPath: timerText_gradient.key2.r
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1313447173073154180, guid: 7824c47451ade374982cec0cdc81e24c, type: 3}
       propertyPath: timerText_gradient.key3.b

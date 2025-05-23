@@ -1,6 +1,5 @@
 using System;
 using UnityEngine;
-using UnityEngine.Events;
 
 [Serializable]
 public class Timer
@@ -9,20 +8,30 @@ public class Timer
     public bool IsRunning { get; private set; }
 
     private float TargetTime = 0f;
+    private bool isCountdown = false;
     public Action OnTimerFinished;
 
     public float GetElapsedTimeNormalized()
     {
-        if (TargetTime <= 0f) return 0f;    // Dividir entre 0 peta
-
+        if (TargetTime <= 0f) return 0f;
         return Mathf.Clamp01(TimeElapsed / TargetTime);
     }
 
-
-    public void Start(float targetTime)
+    public float GetRemainingTime()
     {
-        TimeElapsed = 0f;
+        return Mathf.Max(0f, TargetTime - TimeElapsed);
+    }
+
+    public void Start(float targetTime, bool countdown = false)
+    {
         TargetTime = targetTime;
+        isCountdown = countdown;
+
+        if (isCountdown)
+            TimeElapsed = targetTime;
+        else
+            TimeElapsed = 0f;
+
         IsRunning = true;
     }
 
@@ -33,24 +42,37 @@ public class Timer
 
     public void Reset(float targetTime = 0)
     {
-        if(targetTime != 0)
+        if (targetTime > 0)
             TargetTime = targetTime;
 
-        TimeElapsed = 0f;
+        TimeElapsed = isCountdown ? TargetTime : 0f;
     }
 
     public void Update(float deltaTime)
     {
-        if (IsRunning)
+        if (!IsRunning) return;
+
+        if (isCountdown)
         {
-            if (TimeElapsed > TargetTime)
+            TimeElapsed -= deltaTime;
+
+            if (TimeElapsed <= 0f)
             {
+                TimeElapsed = 0f;
                 OnTimerFinished?.Invoke();
-                TargetTime = TimeElapsed;
                 Stop();
             }
-
+        }
+        else
+        {
             TimeElapsed += deltaTime;
+
+            if (TimeElapsed >= TargetTime)
+            {
+                TimeElapsed = TargetTime;
+                OnTimerFinished?.Invoke();
+                Stop();
+            }
         }
     }
 }
