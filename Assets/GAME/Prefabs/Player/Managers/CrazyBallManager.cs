@@ -39,6 +39,7 @@ public class CrazyBallManager : MonoBehaviour
             pos.y = corner.y - radius;
             moveDirection.y *= -1f;
             moveDirection.x = ChangeDirectionRandomBased(moveDirection.x);
+            PlaySound();
         }
 
         if ((pos.y - radius) < -corner.y)
@@ -46,6 +47,7 @@ public class CrazyBallManager : MonoBehaviour
             pos.y = -corner.y + radius;
             moveDirection.y *= -1f;
             moveDirection.x = ChangeDirectionRandomBased(moveDirection.x);
+            PlaySound();
         }
 
         if ((pos.x + radius) > corner.x)
@@ -53,6 +55,7 @@ public class CrazyBallManager : MonoBehaviour
             pos.x = corner.x - radius;
             moveDirection.x *= -1f;
             moveDirection.y = ChangeDirectionRandomBased(moveDirection.y);
+            PlaySound();
         }
 
         if ((pos.x - radius) < -corner.x)
@@ -60,6 +63,7 @@ public class CrazyBallManager : MonoBehaviour
             pos.x = -corner.x + radius;
             moveDirection.x *= -1f;
             moveDirection.y = ChangeDirectionRandomBased(moveDirection.y);
+            PlaySound();
         }
 
         float angle = Mathf.Atan2(moveDirection.y, moveDirection.x) * Mathf.Rad2Deg;
@@ -72,6 +76,11 @@ public class CrazyBallManager : MonoBehaviour
     float ChangeDirectionRandomBased(float direction)
     {
         return (Random.Range(0, 9) == 0) ? Random.Range(-1f, 1f) : direction;
+    }
+
+    public void PlaySound()
+    {
+        AudioManager.Instance.PlayOneShot("RockDestroy");
     }
 
     void OnDrawGizmosSelected()

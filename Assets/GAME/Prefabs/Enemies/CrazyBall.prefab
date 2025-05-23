@@ -137,7 +137,7 @@ MonoBehaviour:
   ballSpriteTransform: {fileID: 5536513352878123130}
   ballSpeed: 1
   maxBallSpeed: 20
-  speedIncreaseRate: 0.1
+  speedIncreaseRate: 0.5
   corner: {x: 12.5, y: 7}
 --- !u!58 &2589068551912912999
 CircleCollider2D:
