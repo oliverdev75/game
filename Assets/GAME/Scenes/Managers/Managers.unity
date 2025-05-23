@@ -195,9 +195,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   audioClips:
-  - {fileID: 11400000, guid: 0b38fd36b59992649b943522667e8abf, type: 2}
   - {fileID: 11400000, guid: 76e5e13e13eb7794e9acf52de116772b, type: 2}
   - {fileID: 11400000, guid: 84acbe460822f3442b3361606528012a, type: 2}
+  - {fileID: 11400000, guid: 40cf8af0e602aa342b4f6fefb2d0e2e2, type: 2}
+  - {fileID: 11400000, guid: 6a526de8167159444b13311d63c8088f, type: 2}
 --- !u!4 &1276128592
 Transform:
   m_ObjectHideFlags: 0

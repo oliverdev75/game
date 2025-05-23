@@ -59,6 +59,7 @@ public class AudioManager : MonoBehaviour
     {
         if (clipDict.TryGetValue(clipName, out var data))
         {
+            audioSource.pitch = 1f + Random.Range(-data.pitchVariation, data.pitchVariation);
             audioSource.PlayOneShot(data.clip, data.volume);
         }
         else

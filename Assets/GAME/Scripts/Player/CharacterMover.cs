@@ -88,6 +88,7 @@ namespace BASE
             float gravity = Mathf.Abs(Physics2D.gravity.y * rb.gravityScale);
             float jumpVelocity = Mathf.Sqrt(2 * jumpHeight * gravity);
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpVelocity);
+            
             AudioManager.Instance.PlayOneShot("AirWhoosh");
         }
 

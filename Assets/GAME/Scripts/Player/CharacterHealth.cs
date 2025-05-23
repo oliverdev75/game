@@ -16,6 +16,8 @@ public class CharacterHealth : MonoBehaviour
     {
         GameObject particle = Instantiate(deathSplashEffect,transform.position, Quaternion.identity);
         particle.GetComponent<SplashEffectStyle>().SetSplashColor(deathSplashColor);
+        
+        AudioManager.Instance.PlayOneShot("Splat");
 
         gameObject.SetActive(false);
         onDeath?.Invoke();

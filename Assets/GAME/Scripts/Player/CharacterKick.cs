@@ -37,6 +37,7 @@ public class CharacterKick : MonoBehaviour
         }
 
         kickParticleSystem.Play();
+        AudioManager.Instance.PlayOneShot("Punch");
 
         lastOrigin = origin + direction.normalized * 0.1f;
         lastDirection = direction.normalized;
@@ -49,12 +50,14 @@ public class CharacterKick : MonoBehaviour
             {
                 Rigidbody2D rb = hit.transform.GetComponent<Rigidbody2D>();
                 rb.AddForce(lastDirection * kickForce, ForceMode2D.Impulse);
-                hit.transform.GetComponent<CharacterKick>().KickStunCurrentPlayer();
+                hit.transform.GetComponent<CharacterKick>().KickStun();
+                
+                AudioManager.Instance.PlayOneShot("AirWhoosh");
             }
         }
     }
 
-    public async void KickStunCurrentPlayer()
+    public async void KickStun()
     {
         playerController.enabled = false;
 
