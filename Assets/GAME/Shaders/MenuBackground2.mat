@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MenuBackground
+  m_Name: MenuBackground2
   m_Shader: {fileID: -6465566751694194690, guid: 2fd669ecfa9f49a47861be461a55c1c8, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -60,9 +60,9 @@ Material:
     - _Speed: 0.5
     - _Tile: 1
     - _ZWrite: 0
-    - _alpha: 1
+    - _alpha: 0.5
     m_Colors:
-    - _Color: {r: 0.16487716, g: 0.3132075, b: 0.25758362, a: 1}
+    - _Color: {r: 0.16470589, g: 0.20627171, b: 0.3137255, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

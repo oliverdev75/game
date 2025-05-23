@@ -12,7 +12,11 @@ public class PlayerSpawnManager : MonoBehaviour
     public GameObject[] spawnObjects;
     public InputKeycodes_SO[] playerInputs;
     public PlayerSkinData[] playerSkins;
-
+    
+    public Action<GameObject> playerSpawned;
+    public Action<GameObject> playerDead;
+    GameObject lastPlayerDead;
+    
     void Start()
     {
         int numberOfPlayers = GameManager.instance.numberOfPlayers;
@@ -29,6 +33,12 @@ public class PlayerSpawnManager : MonoBehaviour
             players[i].GetComponentInChildren<SpriteRenderer>().sprite = playerSkins[i].sprite;
             players[i].GetComponentInChildren<CharacterLegsAnimation>().SetLegColor(playerSkins[i].color);
             players[i].GetComponentInChildren<CharacterHealth>().SetDeathSplashColor(playerSkins[i].color);
+            int index = i;
+            players[i].GetComponentInChildren<CharacterHealth>().onDeath += () =>
+            {
+                lastPlayerDead = players[index]; 
+                playerDead?.Invoke(lastPlayerDead);
+            };
             
             spawnIndex++;
             if (spawnIndex >= spawnObjects.Length)
@@ -38,6 +48,11 @@ public class PlayerSpawnManager : MonoBehaviour
         }
     }
 
+    public GameObject GetLastPlayerDeath()
+    {
+        return lastPlayerDead;
+    }
+    
     [Serializable]
     public struct PlayerSkinData
     {

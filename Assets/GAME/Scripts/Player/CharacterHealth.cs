@@ -1,4 +1,6 @@
+using Unity.VisualScripting;
 using UnityEngine;
+using System;
 
 public class CharacterHealth : MonoBehaviour
 {
@@ -6,6 +8,8 @@ public class CharacterHealth : MonoBehaviour
 
     public GameObject deathSplashEffect;
     Color deathSplashColor;
+    
+    public Action onDeath;
 
     [ContextMenu("Death")]
     public void Death()
@@ -14,6 +18,7 @@ public class CharacterHealth : MonoBehaviour
         particle.GetComponent<SplashEffectStyle>().SetSplashColor(deathSplashColor);
 
         gameObject.SetActive(false);
+        onDeath?.Invoke();
 
         GameLevelManager.instance.CheckGameLevelFinished();
     }
