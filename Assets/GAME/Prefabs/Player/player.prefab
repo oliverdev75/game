@@ -379,7 +379,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c471079b31283ae4b9ccee57dea395f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSpeed: 10
+  characterSpeed: 10
   timeToReachMaxSpeed: 0.25
   jumpHeight: 6
   GroundlayerMask:
