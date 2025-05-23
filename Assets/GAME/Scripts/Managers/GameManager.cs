@@ -5,8 +5,8 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;     // Singleton
 
-    [Range(1, 4)]                           // A�ade un slider para facilitar la asignacion de datos desde el editmode
-    public int numberOfPlayers = 1;
+    [Range(2, 4)]                           // A�ade un slider para facilitar la asignacion de datos desde el editmode
+    public int numberOfPlayers = 2;
     public PlayerScore[] playerScore;       // No nos ha dado tiempo
 
     public bool inputsAreEnabled = true;

@@ -37,6 +37,7 @@ public class AudioManager : MonoBehaviour
             audioSource.clip = data.clip;
             audioSource.volume = data.volume;
             audioSource.loop = data.loop;
+            audioSource.pitch = 1f + Random.Range(-data.pitchVariation, data.pitchVariation);
             audioSource.Play();
         }
         else
@@ -50,6 +51,7 @@ public class AudioManager : MonoBehaviour
         audioSource.clip = data.clip;
         audioSource.volume = data.volume;
         audioSource.loop = data.loop;
+        audioSource.pitch = 1f + Random.Range(-data.pitchVariation, data.pitchVariation);
         audioSource.Play();
     }
 
