@@ -148,7 +148,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 983615436d9ad4948a51df6cf6d4c2c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DEBUG_loadScene: {fileID: 102900000, guid: 9c7a68283dc7e884abfb236b6a849660, type: 3}
+  numberOfPlayers: 2
+  inputsAreEnabled: 1
 --- !u!4 &1109325719
 Transform:
   m_ObjectHideFlags: 0
@@ -272,6 +273,18 @@ MonoBehaviour:
     sceneName: Level_FloorIsLava_3
     timesPlayed: 0
     thumbnail: {fileID: 21300000, guid: 4c91d9d44b5fe734c86106db0774181f, type: 3}
+  - sceneAsset: {fileID: 102900000, guid: 3b26d23ccb12d802d9328aade74c1b92, type: 3}
+    sceneName: CrazyBall_1
+    timesPlayed: 0
+    thumbnail: {fileID: 21300000, guid: b31a2ce98b3eb1f428abe397abd47c44, type: 3}
+  - sceneAsset: {fileID: 102900000, guid: 0f19e507c93e017a7b135bdb4b563f9a, type: 3}
+    sceneName: CrazyBall_2
+    timesPlayed: 0
+    thumbnail: {fileID: 21300000, guid: 002a863bae3215945a415bfef6155bb7, type: 3}
+  - sceneAsset: {fileID: 102900000, guid: 121c709a2e6fb13b692735a9236cbe43, type: 3}
+    sceneName: CrazyBall_3
+    timesPlayed: 0
+    thumbnail: {fileID: 21300000, guid: 5aa796f81dd1597438a178b833e455a7, type: 3}
   finishGameAnimation: {fileID: 103278290507222739, guid: f7aff589da9211e4d88cd1fc85321fae, type: 3}
   reversedCountdownAnimation: {fileID: 3159376326921871933, guid: 6d96894d16f2e6e49b05d86fc4f9e0b1, type: 3}
   fadeTransitionAnimation: {fileID: 3547182224445457765, guid: a458d06f7a003ae488594cb456f42557, type: 3}
