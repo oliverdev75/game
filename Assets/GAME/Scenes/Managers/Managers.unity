@@ -148,14 +148,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 983615436d9ad4948a51df6cf6d4c2c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD:Assets/GAME/Scenes/Managers/Managers.unity
-  numberOfPlayers: 2
-  inputsAreEnabled: 1
---- !u!4 &1005845243
-=======
   DEBUG_loadScene: {fileID: 102900000, guid: 9c7a68283dc7e884abfb236b6a849660, type: 3}
 --- !u!4 &1109325719
->>>>>>> b42345e (merging):Assets/GAME/Scenes/Bootstrap/Bootstrap.unity
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
