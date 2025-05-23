@@ -33,4 +33,10 @@ public class CharacterLegsAnimation : MonoBehaviour
         rLeg.localRotation = Quaternion.Euler(0f, 0f, sinAngle);
         lLeg.localRotation = Quaternion.Euler(0f, 0f, cosAngle);
     }
+
+    public void SetLegColor(Color color)
+    {
+        rLeg.GetComponent<SpriteRenderer>().color = color;
+        lLeg.GetComponent<SpriteRenderer>().color = color;
+    }
 }

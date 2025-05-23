@@ -3,9 +3,11 @@ using UnityEngine.SceneManagement;
 
 public class Bootstrap : MonoBehaviour
 {
-    void Start()
-    {
-        SceneManager.LoadScene("MainMenu");
-    }
+    [SerializeField] string sceneToLoad = "MainMenu";
 
+    async void Start()
+    {
+        await SceneManager.LoadSceneAsync("Managers", LoadSceneMode.Additive);
+        await SceneManager.LoadSceneAsync(sceneToLoad, LoadSceneMode.Single);
+    }
 }

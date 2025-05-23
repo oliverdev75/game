@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Serialization;
 
 namespace BASE
 {
@@ -6,9 +7,9 @@ namespace BASE
     [RequireComponent(typeof(CircleCollider2D))]
     public class CharacterMover : MonoBehaviour
     {
-        public float playerSpeed = 10;
+        [FormerlySerializedAs("playerSpeed")] public float characterSpeed = 10;
         public float timeToReachMaxSpeed = 0.25f;
-        float currentPlayerSpeed = 0f;
+        float currentCharacterSpeed = 0f;
 
         public float jumpHeight = 1.5f;
         [SerializeField] LayerMask GroundlayerMask;
@@ -30,7 +31,8 @@ namespace BASE
 
         private void Update()
         {
-            spriteRenderer.flipX = rb.linearVelocity.x > 0;
+            if(Mathf.Abs(rb.linearVelocityX) > 0.1f)
+                spriteRenderer.flipX = rb.linearVelocity.x > 0;
 
             float tiltAmount = Mathf.Clamp(rb.linearVelocity.x, -1f, 1f) * rotationAmount;
 
@@ -50,30 +52,30 @@ namespace BASE
                 // Aceleracion del personaje
                 if (timeToReachMaxSpeed > 0)
                 {
-                    if (currentPlayerSpeed < playerSpeed)
+                    if (currentCharacterSpeed < characterSpeed)
                     {
-                        currentPlayerSpeed += (playerSpeed / timeToReachMaxSpeed) * Time.deltaTime;
-                        if (currentPlayerSpeed > playerSpeed)
+                        currentCharacterSpeed += (characterSpeed / timeToReachMaxSpeed) * Time.deltaTime;
+                        if (currentCharacterSpeed > characterSpeed)
                         {
-                            currentPlayerSpeed = playerSpeed;
+                            currentCharacterSpeed = characterSpeed;
                         }
                     }
                 }
                 else
-                    currentPlayerSpeed = playerSpeed;
+                    currentCharacterSpeed = characterSpeed;
 
                 // Movimiento
                 Vector2 moveDir = Vector2.right * moveDirection.x;
                 moveDir.Normalize();
                 if (CheckCollissionsInDirection(Vector2.down) || CheckCollissionsInDirection(moveDir) == false)
                 {
-                    Vector2 playerForce = moveDir * currentPlayerSpeed;
+                    Vector2 playerForce = moveDir * currentCharacterSpeed;
                     rb.linearVelocity = new Vector2(playerForce.x, rb.linearVelocity.y);
                 }
             }
             else
             {
-                currentPlayerSpeed = 0;
+                currentCharacterSpeed = 0;
             }
 
         }
@@ -116,7 +118,7 @@ namespace BASE
 
             Gizmos.color = Color.green;
 
-            Gizmos.DrawLine(transform.position, (Vector2)transform.position + (rb.linearVelocity.normalized * rb.linearVelocity.magnitude) / playerSpeed);
+            Gizmos.DrawLine(transform.position, (Vector2)transform.position + (rb.linearVelocity.normalized * rb.linearVelocity.magnitude) / characterSpeed);
 
             Gizmos.DrawRay(transform.position, Vector2.down);
         }
