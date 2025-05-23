@@ -43,16 +43,18 @@ public class FinishGameAnimation : MonoBehaviour
         
         yield return new WaitForSeconds(0.5f);
 
-        Transform lastPlayerDeadTransform = GameObject.FindFirstObjectByType<PlayerSpawnManager>().GetLastPlayerDeath().transform;
         Transform playerTransform = player.transform;
+        Transform lastPlayerDeadTransform = GameObject.FindFirstObjectByType<PlayerSpawnManager>().GetLastPlayerDeath().transform;
 
-        // Zoom in
-        Tween zoomIn = camera.DOOrthoSize(TARGET_ORT_SIZE, ZOOM_DURATION).SetEase(Ease.InOutExpo).SetUpdate(true);
-        Tween moveIn = transform.DOMove(lastPlayerDeadTransform.position, RETURN_DURATION).SetEase(Ease.InOutExpo).SetUpdate(true);
+        Tween zoomIn = camera.DOOrthoSize(TARGET_ORT_SIZE, ZOOM_DURATION).SetEase(Ease.InExpo).SetUpdate(true);
+        Tween moveIn = transform.DOMove(lastPlayerDeadTransform.position, ZOOM_DURATION).SetEase(Ease.InSine).SetUpdate(true);
 
-        yield return zoomIn.WaitForCompletion();
+
         yield return moveIn.WaitForCompletion();
-
+        yield return zoomIn.WaitForCompletion();
+        
+        yield return new WaitForSeconds(0.5f);
+        
         float elapsed = 0f;
         while (elapsed < FOLLOW_DURATION)
         {
@@ -62,7 +64,7 @@ public class FinishGameAnimation : MonoBehaviour
         }
 
         // Zoom out y volver a la posición original
-        Tween zoomOut = camera.DOOrthoSize(originalOrthoSize, RETURN_DURATION).SetEase(Ease.InOutSine).SetUpdate(true);
+        Tween zoomOut = camera.DOOrthoSize(originalOrthoSize, RETURN_DURATION).SetEase(Ease.InOutExpo).SetUpdate(true);
         Tween moveBack = transform.DOMove(originalPosition, RETURN_DURATION).SetEase(Ease.InOutSine).SetUpdate(true);
 
         yield return zoomOut.WaitForCompletion();

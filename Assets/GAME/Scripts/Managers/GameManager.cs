@@ -5,7 +5,7 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;     // Singleton
 
-    [Range(1, 4)]                           // Añade un slider para facilitar la asignacion de datos desde el editmode
+    [Range(1, 4)]                           // Aï¿½ade un slider para facilitar la asignacion de datos desde el editmode
     public int numberOfPlayers = 1;
     public PlayerScore[] playerScore;
 

@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/GAME/Scenes/Bootstrap/Bootstrap.unity
-    guid: 310242f792f23b345a4c05755c3e84e0
-  - enabled: 1
     path: Assets/GAME/Scenes/Menu/MainMenu.unity
     guid: 235f2029d48ab984cb224fb146674a73
   - enabled: 1
@@ -33,7 +30,10 @@ EditorBuildSettings:
     path: Assets/GAME/Scenes/Levels/Arena/Level_Arena_3.unity
     guid: 042b4aab363b84b46a1d00db20098fb3
   - enabled: 1
-    path: Assets/GAME/Scenes/Bootstrap/Managers.unity
+    path: Assets/GAME/Scenes/Managers/Managers.unity
     guid: ea184f68326823d40876cc6ee90763c9
+  - enabled: 1
+    path: Assets/GAME/Scenes/Menu/PauseMenu.unity
+    guid: 1e6bdc4a40c9d454894c88acebde421e
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

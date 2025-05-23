@@ -32,6 +32,24 @@ public class GameLevelManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
+#if UNITY_EDITOR
+    private void OnValidate()
+    {
+        for (int i = 0; i < gameLevelsScenes.Length; i++)
+        {
+            var level = gameLevelsScenes[i];
+            level.SyncSceneName();
+            gameLevelsScenes[i] = level;
+        }
+
+        var selection = gameSelectionScene;
+        selection.SyncSceneName();
+        gameSelectionScene = selection;
+
+        UnityEditor.EditorUtility.SetDirty(this);
+    }
+#endif
+    
     public void LoadRandomGameLevelScene()
     {
         LoadGameLevelScene(gameLevelsScenes[UnityEngine.Random.Range(0,gameLevelsScenes.Length)]);
@@ -44,7 +62,7 @@ public class GameLevelManager : MonoBehaviour
 
         foreach (var scene in gameLevelsScenes) 
         {
-            if (scene.scene.name == currentActiveSceneName)
+            if (scene.sceneName == currentActiveSceneName)
                 LoadGameLevelScene(scene);
         }
     }
@@ -63,15 +81,15 @@ public class GameLevelManager : MonoBehaviour
     {
         await InstantiateTransition(easeIn: false);
         
-        await SceneManager.LoadSceneAsync(gameLevelData.scene.name);
+        await SceneManager.LoadSceneAsync(gameLevelData.sceneName);
+        
+        SceneManager.LoadScene("PauseMenu", LoadSceneMode.Additive);
 
         levelControllerInterface = FindObjectsByType<MonoBehaviour>(sortMode: FindObjectsSortMode.None)
             .FirstOrDefault(obj => obj is LevelControllerInterface)?.gameObject;
         
-        await InstantiateTransition(easeIn: true);
-        
         // Start level controller interface
-        if(gameLevelData.scene.name == gameSelectionScene.scene.name)
+        if(gameLevelData.sceneName == gameSelectionScene.sceneName)
         {
             levelControllerInterface.GetComponent<LevelControllerInterface>().StartLevel();
         }
@@ -84,6 +102,8 @@ public class GameLevelManager : MonoBehaviour
                 levelControllerInterface.GetComponent<LevelControllerInterface>().StartLevel();
             };
         }
+        
+        await InstantiateTransition(easeIn: true);
 
     }
 
@@ -135,7 +155,21 @@ public class GameLevelManager : MonoBehaviour
 [Serializable]
 public struct GameLevelData
 {
-    public SceneAsset scene;
+#if UNITY_EDITOR
+    public SceneAsset sceneAsset;
+#endif
+    public string sceneName;
     public int timesPlayed;
     public Sprite thumbnail;
+
+#if UNITY_EDITOR
+    public void SyncSceneName()
+    {
+        if (sceneAsset != null)
+        {
+            string path = AssetDatabase.GetAssetPath(sceneAsset);
+            sceneName = System.IO.Path.GetFileNameWithoutExtension(path);
+        }
+    }
+#endif
 }
