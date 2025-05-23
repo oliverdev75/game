@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour
 
     [Range(1, 4)]                           // A�ade un slider para facilitar la asignacion de datos desde el editmode
     public int numberOfPlayers = 1;
-    public PlayerScore[] playerScore;
+    public PlayerScore[] playerScore;       // No nos ha dado tiempo
 
     public bool inputsAreEnabled = true;
 
